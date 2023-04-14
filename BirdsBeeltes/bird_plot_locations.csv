@@ -1,0 +1,41 @@
+ID,Site,Plot,Forest_status,Grazing_status,Year ,,,Weather_1,Weather_2,,,,,Grid_X,Grid_Y
+1,1,1,Reforestation,Ungrazed,1990,,,"Overcast, light wind","Mid-high wind, scattered cloud (sun elsewhere)",,,,,212503,820356
+2,1,2,Unforested,Grazed,,,,"Overcast, light wind","Mid-high wind, scattered cloud (sun elsewhere)",,,,,212430,820123
+3,1,3,Unforested,Ungrazed,1990,,,"Overcast, light wind","Mid-high wind, scattered cloud (sun elsewhere)",,,,,212409,820252
+4,2,1,Reforestation,Ungrazed,1994,,,"Light breeze, high cloud, glimpses sun","Light-mid wind, scattered cloud (sun elsewhere)",,,,,211579,819791
+5,2,2,Unforested,Grazed,,,,"Overcast, light wind","Mid-high wind, scattered cloud (sun elsewhere)",,,,,212215,820001
+6,2,3,Unforested,Ungrazed,1994,,,"Mist, light rain, breeze","Mid-high wind, scattered cloud (sun elsewhere)",,,,,211974,819772
+13,5,1,Reforestation,Ungrazed,1997,,,"Sunny, very slight breeze, frost on tops mountains","Still, cloud and sun",,,,,282190,819945
+14,5,2,Unforested,Grazed,,,,"Sun & cloud, light breeze","Breeze, cloud and sun",,,,,285890,819963
+15,5,3,Unforested,Ungrazed,1997,,,"Sunny, very slight breeze","Breeze, cloud and sun",,,,,289480,820102
+19,7,1,Reforestation,Ungrazed,1999,,,"Sunny intervals, light breeze, light rain shower 10:58","Breeze, cloud and sun",,,,,252000,818468
+20,7,2,Unforested,Grazed,,,,"Overcast, light breeze, light rain shower 09:27","Light wind, high cloud, 08:29 sun ",,,,,258510,818738
+21,7,3,Unforested,Ungrazed,1999,,,"Sunny intervals, light breeze","High cloud, light/mid wind",,,,,255730,818628
+22,8,1,Reforestation,Ungrazed,1990,,,"Drizzle, still, mist","Light breeze, dry, overcast",,,,,223559,825876
+23,8,2,Unforested,Grazed,,,,"Light rain, still","Light breeze, dry, light drizzle",,,,,223343,825794
+24,8,3,Unforested,Ungrazed,1990,,,"Light drizzle, still","Light wind, overcast, light drizzle, no rain from 10:55",,,,,223417,825896
+25,8,4,Mature,Grazed,,,,"Mist, still, rain stopped","Rain, light breeze, grey",,,,,223894,825870
+26,8,5,Mature,Ungrazed,1990,,,"Still, drizzle","Rain, light breeze, grey",,,,,223747,825928
+27,9,1,Reforestation,Ungrazed,1993,,,"Cloud, some brightness, light wind","Light breeze, high cloud",,,,,214884,821038
+28,9,2,Unforested,Grazed,,,,"Light rain, cloud, light wind, glimpses sun","Mid wind, high cloud",,,,,214534,820989
+29,9,3,Unforested,Ungrazed,1993,,,"Drizzle, cloud, mist","Light-mid wind, scattered cloud",,,,,214703,821071
+30,9,4,Mature,Grazed,,,,"Sun, cloud, light rain, light wind, 9.30 light shower","Light breeze, patchy cloud",,,,,216490,822140
+31,9,5,Mature,Ungrazed,1993,,,"Drizzle, strong-medium wind, sun & cloud","Sun, scattered cloud, light-mid wind",,,,,216576,821985
+32,10,1,Reforestation,Ungrazed,2005,,,"Overcast, light wind","Still, overcast (high cloud), sun breaking through 10:41",,,,,235548,827621
+33,10,2,Unforested,Grazed,,,,"Overcast, light wind","Light drizzle, overcst (high cloud)",,,,,235385,818142
+34,10,3,Unforested,Ungrazed,2005,,,"Overcast, light wind","V. light rain-drizzle, high cloud, still",,,,,235682,817907
+35,11,1,Reforestation,Ungrazed,2012,,,"Slightly overcast, light wind","Still, overcast (high cloud) but bright",40% of plot essentially grazed treeless,,,,233858,816762
+36,11,2,Unforested,Grazed,,,,"Sunny intervals, light wind","Still, overcast (high cloud), bright",,,,,233685,816525
+37,11,3,Unforested,Ungrazed,2012,,,"Sunny intervals, light wind","Slight breeze, sun/high cloud",,,,,233766,816788
+38,12,1,Reforestation,Ungrazed,2009,,,"Sun & cloud, stronger wind (medium)","Still, high cloud & sun, full sun 07:31",,,,,228657,816382
+39,12,2,Unforested,Grazed,,,,"Sun & cloud, breeze/light wind","Still, high cloud, bright",,,,,228729,816289
+40,12,3,Unforested,Ungrazed,2009,,,"Sun & cloud, breeze/light wind","Sun, still",,,,,228576,816305
+41,13,4,Mature,Grazed,,,,"Light breeze, overcast, low cloud","Medium-light rain, light breeze, overcast",,,,,223964,826294
+42,13,5,Mature,Ungrazed,1990,,,"Light breeze, mist","Light rain, light breeze, overcast",,,,,223807,826318
+43,14,4,Mature,Grazed,,,,"Light drizzle, cloyd, strong-medium wind","Still, patchy cloud",,,,,217396,822248
+44,14,5,Mature,Ungrazed,1993,,,"Medium wind, sun, cloud","Light drizzle, light mist, still",,,,,217387,822123
+45,15,1,Reforestation,Ungrazed,1991,,,"Mist, low cloud, still","Light-mid wind, sun & cloud",,,,,220706,825145
+46,15,2,Unforested,Grazed,,,,"Light rain, mist, still","Mid wind, sun & cloud",,,,,220831,825121
+47,15,3,Unforested,Ungrazed,1991,,,"Still, mist, light rain","Light wind, overcast, low cloud",,,,,220378,825377
+48,15,4,Mature,Grazed,,,,"Mist, still","Light-mid wind, sun & cloud",,,,,220691,824806
+49,15,5,Mature,Ungrazed,1991,,,NA,"Light drizzle/mist, overcast, light breeze",,,,,220568,825078
