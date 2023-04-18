@@ -1,0 +1,1545 @@
+Site,PlotType,PlotID,Species,Grid_X,Grid_Y,Forest_status,Grazing_status
+1,1,1,Calluna vulgaris,212527,820214,Reforestation,Ungrazed
+1,1,1,Erica cinerea,212527,820214,Reforestation,Ungrazed
+1,1,1,Vaccinium myrtillus,212527,820214,Reforestation,Ungrazed
+1,1,1,Pleurozium schreberi,212527,820214,Reforestation,Ungrazed
+1,1,1,Hylocomium splendens,212527,820214,Reforestation,Ungrazed
+1,1,1,Polytrichum sp.,212527,820214,Reforestation,Ungrazed
+1,1,1,Molinia caerulea,212527,820214,Reforestation,Ungrazed
+1,1,1,Festuca rubra,212527,820214,Reforestation,Ungrazed
+1,1,1,Sorbus aucuparia,212527,820214,Reforestation,Ungrazed
+1,1,1,Liverwort sp.,212527,820214,Reforestation,Ungrazed
+1,1,1,Moss sp.,212527,820214,Reforestation,Ungrazed
+1,1,1,Lichen,212527,820214,Reforestation,Ungrazed
+1,1,1,Litter,212527,820214,Reforestation,Ungrazed
+1,1,1,Scirpus cespitosus,212527,820214,Reforestation,Ungrazed
+1,1,1,Blechnum spicant,212527,820214,Reforestation,Ungrazed
+1,1,1,Calluna vulgaris,212527,820214,Reforestation,Ungrazed
+1,1,1,Erica tetralix,212527,820214,Reforestation,Ungrazed
+1,1,1,Potentilla erecta,212527,820214,Reforestation,Ungrazed
+1,1,1,Narthecium ossifragum,212527,820214,Reforestation,Ungrazed
+1,1,1,Molinia caerulea,212527,820214,Reforestation,Ungrazed
+1,1,1,Sphagnum sp.,212527,820214,Reforestation,Ungrazed
+1,1,1,Lichen,212527,820214,Reforestation,Ungrazed
+1,1,1,Litter,212527,820214,Reforestation,Ungrazed
+1,1,1,Pleurozium schreberi,212527,820214,Reforestation,Ungrazed
+1,1,1,Hylocomium splendens,212527,820214,Reforestation,Ungrazed
+1,1,1,Racomitrium sp.,212527,820214,Reforestation,Ungrazed
+1,1,1,Calluna vulgaris,212527,820214,Reforestation,Ungrazed
+1,1,1,Vaccinium myrtillus,212527,820214,Reforestation,Ungrazed
+1,1,1,Sphagnum sp.,212527,820214,Reforestation,Ungrazed
+1,1,1,Molinia caerulea,212527,820214,Reforestation,Ungrazed
+1,1,1,Erica tetralix,212527,820214,Reforestation,Ungrazed
+1,1,1,Hylocomium splendens,212527,820214,Reforestation,Ungrazed
+1,1,1,Narthecium ossifragum,212527,820214,Reforestation,Ungrazed
+1,1,1,Pleurozium schreberi,212527,820214,Reforestation,Ungrazed
+1,2,2,Sorbus aucuparia,212495,820173,Unforested,Grazed
+1,2,2,Sphagnum sp.,212495,820173,Unforested,Grazed
+1,2,2,Potentilla erecta,212495,820173,Unforested,Grazed
+1,2,2,Calluna vulgaris,212495,820173,Unforested,Grazed
+1,2,2,Molinia caerulea,212495,820173,Unforested,Grazed
+1,2,2,Scirpus cespitosus,212495,820173,Unforested,Grazed
+1,2,2,Polytrichum sp.,212495,820173,Unforested,Grazed
+1,2,2,Racomitrium sp.,212495,820173,Unforested,Grazed
+1,2,2,Vaccinium myrtillus,212495,820173,Unforested,Grazed
+1,2,2,Narthecium ossifragum,212495,820173,Unforested,Grazed
+1,2,2,Vaccinium myrtillus,212495,820173,Unforested,Grazed
+1,2,2,Sphagnum sp.,212495,820173,Unforested,Grazed
+1,2,2,Calluna vulgaris,212495,820173,Unforested,Grazed
+1,2,2,Erica tetralix,212495,820173,Unforested,Grazed
+1,2,2,Drosera rotundifolia,212495,820173,Unforested,Grazed
+1,2,2,Eriophorum sp.,212495,820173,Unforested,Grazed
+1,2,2,Narthecium ossifragum,212495,820173,Unforested,Grazed
+1,2,2,Rhytidiadelphus sp.,212495,820173,Unforested,Grazed
+1,2,2,Scirpus cespitosus,212495,820173,Unforested,Grazed
+1,2,2,Litter ,212495,820173,Unforested,Grazed
+1,2,2,Sphagnum sp.,212495,820173,Unforested,Grazed
+1,2,2,Erica tetralix,212495,820173,Unforested,Grazed
+1,2,2,Calluna vulgaris,212495,820173,Unforested,Grazed
+1,2,2,Potentilla erecta,212495,820173,Unforested,Grazed
+1,2,2,Narthecium ossifragum,212495,820173,Unforested,Grazed
+1,2,2,Molinia caerulea,212495,820173,Unforested,Grazed
+1,2,2,Lichen,212495,820173,Unforested,Grazed
+1,2,2,Scirpus cespitosus,212495,820173,Unforested,Grazed
+1,2,2,Litter,212495,820173,Unforested,Grazed
+1,2,2,Huperzia selago,212495,820173,Unforested,Grazed
+1,3,3,Calluna vulgaris,212468,820198,Unforested,Ungrazed
+1,3,3,Erica tetralix,212468,820198,Unforested,Ungrazed
+1,3,3,Molinia caerulea,212468,820198,Unforested,Ungrazed
+1,3,3,Scirpus cespitosus,212468,820198,Unforested,Ungrazed
+1,3,3,Potentilla erecta,212468,820198,Unforested,Ungrazed
+1,3,3,Narthecium ossifragum,212468,820198,Unforested,Ungrazed
+1,3,3,Pleurozia purpurea,212468,820198,Unforested,Ungrazed
+1,3,3,Sphagnum sp.,212468,820198,Unforested,Ungrazed
+1,3,3,Racomitrium sp.,212468,820198,Unforested,Ungrazed
+1,3,3,Lichen,212468,820198,Unforested,Ungrazed
+1,3,3,Litter ,212468,820198,Unforested,Ungrazed
+1,3,3,Calluna vulgaris,212468,820198,Unforested,Ungrazed
+1,3,3,Erica tetralix,212468,820198,Unforested,Ungrazed
+1,3,3,Sphagnum sp.,212468,820198,Unforested,Ungrazed
+1,3,3,Molinia caerulea,212468,820198,Unforested,Ungrazed
+1,3,3,Narthecium ossifragum,212468,820198,Unforested,Ungrazed
+1,3,3,Scirpus cespitosus,212468,820198,Unforested,Ungrazed
+1,3,3,Potentilla erecta,212468,820198,Unforested,Ungrazed
+1,3,3,Lichen,212468,820198,Unforested,Ungrazed
+1,3,3,Litter,212468,820198,Unforested,Ungrazed
+1,3,3,Racomitrium sp.,212468,820198,Unforested,Ungrazed
+1,3,3,Calluna vulgaris,212468,820198,Unforested,Ungrazed
+1,3,3,Sphagnum sp.,212468,820198,Unforested,Ungrazed
+1,3,3,Pleurozia purpurea,212468,820198,Unforested,Ungrazed
+1,3,3,Molinia caerulea,212468,820198,Unforested,Ungrazed
+1,3,3,Scirpus cespitosus,212468,820198,Unforested,Ungrazed
+1,3,3,Erica tetralix,212468,820198,Unforested,Ungrazed
+1,3,3,Narthecium ossifragum,212468,820198,Unforested,Ungrazed
+1,3,3,Lichen,212468,820198,Unforested,Ungrazed
+1,3,3,Litter,212468,820198,Unforested,Ungrazed
+1,3,3,Racomitrium sp.,212468,820198,Unforested,Ungrazed
+1,3,3,Vaccinium myrtillus,212468,820198,Unforested,Ungrazed
+2,1,4,Sphagnum sp.,211606,819820,Reforestation,Ungrazed
+2,1,4,Hylocomium splendens,211606,819820,Reforestation,Ungrazed
+2,1,4,Potentilla erecta,211606,819820,Reforestation,Ungrazed
+2,1,4,Litter,211606,819820,Reforestation,Ungrazed
+2,1,4,Sorbus aucuparia,211606,819820,Reforestation,Ungrazed
+2,1,4,Oxalis acetosella,211606,819820,Reforestation,Ungrazed
+2,1,4,Poa nemoralis,211606,819820,Reforestation,Ungrazed
+2,1,4,Dryopteris filix-mas,211606,819820,Reforestation,Ungrazed
+2,1,4,Holcus mollis,211606,819820,Reforestation,Ungrazed
+2,1,4,Polytrichum sp.,211606,819820,Reforestation,Ungrazed
+2,1,4,Rhytidiadelphus sp.,211606,819820,Reforestation,Ungrazed
+2,1,4,Hylocomium splendens,211606,819820,Reforestation,Ungrazed
+2,1,4,Sorbus aucuparia,211606,819820,Reforestation,Ungrazed
+2,1,4,Sphagnum sp.,211606,819820,Reforestation,Ungrazed
+2,1,4,Polytrichum sp.,211606,819820,Reforestation,Ungrazed
+2,1,4,Oxalis acetosella,211606,819820,Reforestation,Ungrazed
+2,1,4,Potentilla erecta,211606,819820,Reforestation,Ungrazed
+2,1,4,Galium saxatile,211606,819820,Reforestation,Ungrazed
+2,1,4,Litter,211606,819820,Reforestation,Ungrazed
+2,1,4,Dryopteris filix-mas,211606,819820,Reforestation,Ungrazed
+2,1,4,Luzula sylvatica,211606,819820,Reforestation,Ungrazed
+2,1,4,Poa nemoralis,211606,819820,Reforestation,Ungrazed
+2,1,4,Festuca arundinacea,211606,819820,Reforestation,Ungrazed
+2,1,4,Pleurozium schreberi,211606,819820,Reforestation,Ungrazed
+2,1,4,Rhytidiadelphus sp.,211606,819820,Reforestation,Ungrazed
+2,1,4,Blechnum spicant,211606,819820,Reforestation,Ungrazed
+2,1,4,Dryopteris filix-mas,211606,819820,Reforestation,Ungrazed
+2,1,4,Potentilla erecta,211606,819820,Reforestation,Ungrazed
+2,1,4,Sphagnum sp.,211606,819820,Reforestation,Ungrazed
+2,1,4,Deschampsia cespitosa,211606,819820,Reforestation,Ungrazed
+2,1,4,Galium saxatile,211606,819820,Reforestation,Ungrazed
+2,1,4,Anthoxanthum odoratum,211606,819820,Reforestation,Ungrazed
+2,1,4,Hylocomium splendens,211606,819820,Reforestation,Ungrazed
+2,1,4,Rhytidiadelphus sp.,211606,819820,Reforestation,Ungrazed
+2,1,4,Holcus mollis,211606,819820,Reforestation,Ungrazed
+2,1,4,Rumex acetosa,211606,819820,Reforestation,Ungrazed
+2,1,4,Polytrichumsp.,211606,819820,Reforestation,Ungrazed
+2,1,4,Poa nemoralis,211606,819820,Reforestation,Ungrazed
+2,1,4,Juncus effusus,211606,819820,Reforestation,Ungrazed
+2,2,5,Calluna vulgaris,211961,819910,Unforested,Grazed
+2,2,5,Racomitrium sp.,211961,819910,Unforested,Grazed
+2,2,5,Vaccinium myrtillus,211961,819910,Unforested,Grazed
+2,2,5,Scirpus cespitosus,211961,819910,Unforested,Grazed
+2,2,5,Lichen,211961,819910,Unforested,Grazed
+2,2,5,Litter,211961,819910,Unforested,Grazed
+2,2,5,Liverwort sp.,211961,819910,Unforested,Grazed
+2,2,5,Pleurozium schreberi,211961,819910,Unforested,Grazed
+2,2,5,Molinia caerulea,211961,819910,Unforested,Grazed
+2,2,5,Calluna vulgaris,211961,819910,Unforested,Grazed
+2,2,5,Racomitrium sp.,211961,819910,Unforested,Grazed
+2,2,5,Sphagnum sp.,211961,819910,Unforested,Grazed
+2,2,5,Erica tetralix,211961,819910,Unforested,Grazed
+2,2,5,Scirpus cespitosus,211961,819910,Unforested,Grazed
+2,2,5,Lichen,211961,819910,Unforested,Grazed
+2,2,5,Potentilla erecta,211961,819910,Unforested,Grazed
+2,2,5,Vaccinium myrtillus,211961,819910,Unforested,Grazed
+2,2,5,Sphagnum sp.,211961,819910,Unforested,Grazed
+2,2,5,Calluna vulgaris,211961,819910,Unforested,Grazed
+2,2,5,Molinia caerulea,211961,819910,Unforested,Grazed
+2,2,5,Scirpus cespitosus,211961,819910,Unforested,Grazed
+2,2,5,Erica tetralix,211961,819910,Unforested,Grazed
+2,2,5,Vaccinium myrtillus,211961,819910,Unforested,Grazed
+2,2,5,Racomitrium sp.,211961,819910,Unforested,Grazed
+2,2,5,Narthecium ossifragum,211961,819910,Unforested,Grazed
+2,2,5,Lichen,211961,819910,Unforested,Grazed
+2,2,5,Pedicularis palustris,211961,819910,Unforested,Grazed
+2,3,6,Calluna vulgaris,211733,819793,Unforested,Ungrazed
+2,3,6,Sphagnum sp.,211733,819793,Unforested,Ungrazed
+2,3,6,Potentilla erecta,211733,819793,Unforested,Ungrazed
+2,3,6,Scirpus cespitosus,211733,819793,Unforested,Ungrazed
+2,3,6,Molinia caerulea,211733,819793,Unforested,Ungrazed
+2,3,6,Erica tetralix,211733,819793,Unforested,Ungrazed
+2,3,6,Rhytidiadelphus sp.,211733,819793,Unforested,Ungrazed
+2,3,6,Narthecium ossifragum,211733,819793,Unforested,Ungrazed
+2,3,6,Dactylorhiza maculata,211733,819793,Unforested,Ungrazed
+2,3,6,Liverwort sp.,211733,819793,Unforested,Ungrazed
+2,3,6,Hylocomium splendens,211733,819793,Unforested,Ungrazed
+2,3,6,Litter,211733,819793,Unforested,Ungrazed
+2,3,6,Potentilla erecta,211733,819793,Unforested,Ungrazed
+2,3,6,Erica tetralix,211733,819793,Unforested,Ungrazed
+2,3,6,Calluna vulgaris,211733,819793,Unforested,Ungrazed
+2,3,6,Hylocomium splendens,211733,819793,Unforested,Ungrazed
+2,3,6,Molinia caerulea,211733,819793,Unforested,Ungrazed
+2,3,6,Liverwort sp.,211733,819793,Unforested,Ungrazed
+2,3,6,Drosera rotundifolia,211733,819793,Unforested,Ungrazed
+2,3,6,Scirpus cespitosus,211733,819793,Unforested,Ungrazed
+2,3,6,Sphagnumsp.,211733,819793,Unforested,Ungrazed
+2,3,6,Rhytidiadelphussp.,211733,819793,Unforested,Ungrazed
+2,3,6,Narthecium ossifragum,211733,819793,Unforested,Ungrazed
+2,3,6,Litter,211733,819793,Unforested,Ungrazed
+2,3,6,Eriophorumsp.,211733,819793,Unforested,Ungrazed
+2,3,6,Erica tetralix,211733,819793,Unforested,Ungrazed
+2,3,6,Calluna vulgaris,211733,819793,Unforested,Ungrazed
+2,3,6,Sphagnum sp.,211733,819793,Unforested,Ungrazed
+2,3,6,Molinia caerulea,211733,819793,Unforested,Ungrazed
+2,3,6,Scirpus cespitosus,211733,819793,Unforested,Ungrazed
+2,3,6,Potentilla erecta,211733,819793,Unforested,Ungrazed
+2,3,6,Vaccinium myrtillus,211733,819793,Unforested,Ungrazed
+2,3,6,Rhytidiadelphus sp.,211733,819793,Unforested,Ungrazed
+2,3,6,Litter,211733,819793,Unforested,Ungrazed
+2,3,6,Narthecium ossifragum,211733,819793,Unforested,Ungrazed
+2,3,6,Hylocomium splendens,211733,819793,Unforested,Ungrazed
+2,3,6,Pleurozium schreberi,211733,819793,Unforested,Ungrazed
+2,3,6,Liverwort sp.,211733,819793,Unforested,Ungrazed
+2,3,6,Eriophorum sp.,211733,819793,Unforested,Ungrazed
+3,1,7,Calluna vulgaris,209650,820408,Reforestation,Ungrazed
+3,1,7,Racomitrium sp.,209650,820408,Reforestation,Ungrazed
+3,1,7,Vaccinium myrtillus,209650,820408,Reforestation,Ungrazed
+3,1,7,Molinia caerulea,209650,820408,Reforestation,Ungrazed
+3,1,7,Lichen,209650,820408,Reforestation,Ungrazed
+3,1,7,Litter,209650,820408,Reforestation,Ungrazed
+3,1,7,Pleurozium schreberi,209650,820408,Reforestation,Ungrazed
+3,1,7,Potentilla erecta,209650,820408,Reforestation,Ungrazed
+3,1,7,Calluna vulgaris,209650,820408,Reforestation,Ungrazed
+3,1,7,Erica tetralix,209650,820408,Reforestation,Ungrazed
+3,1,7,Molinia caerulea,209650,820408,Reforestation,Ungrazed
+3,1,7,Eriophorum sp.,209650,820408,Reforestation,Ungrazed
+3,1,7,Scirpus cespitosus,209650,820408,Reforestation,Ungrazed
+3,1,7,Potentilla erecta,209650,820408,Reforestation,Ungrazed
+3,1,7,Narthecium ossifragum,209650,820408,Reforestation,Ungrazed
+3,1,7,Litter,209650,820408,Reforestation,Ungrazed
+3,1,7,Sphagnum sp.,209650,820408,Reforestation,Ungrazed
+3,1,7,Pleurozium schreberi,209650,820408,Reforestation,Ungrazed
+3,1,7,Hylocomium splendens,209650,820408,Reforestation,Ungrazed
+3,1,7,Calluna vulgaris,209650,820408,Reforestation,Ungrazed
+3,1,7,Molinia caerulea,209650,820408,Reforestation,Ungrazed
+3,1,7,Pleurozium schreberi,209650,820408,Reforestation,Ungrazed
+3,1,7,Hylocomium splendens,209650,820408,Reforestation,Ungrazed
+3,1,7,Racomitrium sp.,209650,820408,Reforestation,Ungrazed
+3,1,7,Lichen,209650,820408,Reforestation,Ungrazed
+3,1,7,Litter,209650,820408,Reforestation,Ungrazed
+3,1,7,Sphagnum sp.,209650,820408,Reforestation,Ungrazed
+3,1,7,Pleurozia purpurea,209650,820408,Reforestation,Ungrazed
+3,1,7,Narthecium ossifragum,209650,820408,Reforestation,Ungrazed
+3,1,7,Potentilla erecta,209650,820408,Reforestation,Ungrazed
+3,1,7,Eriophorum sp.,209650,820408,Reforestation,Ungrazed
+3,1,7,Erica cinerea,209650,820408,Reforestation,Ungrazed
+3,1,7,Blechnum spicant,209650,820408,Reforestation,Ungrazed
+3,2,8,Sphagnum sp.,209477,820390,Unforested,Grazed
+3,2,8,Scirpus cespitosus,209477,820390,Unforested,Grazed
+3,2,8,Molinia caerulea,209477,820390,Unforested,Grazed
+3,2,8,Potentilla erecta,209477,820390,Unforested,Grazed
+3,2,8,Calluna vulgaris,209477,820390,Unforested,Grazed
+3,2,8,Vaccinium myrtillus,209477,820390,Unforested,Grazed
+3,2,8,Erica tetralix,209477,820390,Unforested,Grazed
+3,2,8,Racomitrium sp.,209477,820390,Unforested,Grazed
+3,2,8,Lichen,209477,820390,Unforested,Grazed
+3,2,8,Litter,209477,820390,Unforested,Grazed
+3,2,8,Narthecium ossifragum,209477,820390,Unforested,Grazed
+3,2,8,Erica tetralix,209477,820390,Unforested,Grazed
+3,2,8,Vaccinium myrtillus,209477,820390,Unforested,Grazed
+3,2,8,Calluna vulgaris,209477,820390,Unforested,Grazed
+3,2,8,Scirpus cespitosus,209477,820390,Unforested,Grazed
+3,2,8,Molinia caerulea,209477,820390,Unforested,Grazed
+3,2,8,Eriophorum sp.,209477,820390,Unforested,Grazed
+3,2,8,Litter,209477,820390,Unforested,Grazed
+3,2,8,Potentilla erecta,209477,820390,Unforested,Grazed
+3,2,8,Sphagnum sp.,209477,820390,Unforested,Grazed
+3,2,8,Rhytidiadelphus sp.,209477,820390,Unforested,Grazed
+3,2,8,Hylocomium splendens,209477,820390,Unforested,Grazed
+3,2,8,Sphagnum sp.,209477,820390,Unforested,Grazed
+3,2,8,Molinia caerulea,209477,820390,Unforested,Grazed
+3,2,8,Calluna vulgaris,209477,820390,Unforested,Grazed
+3,2,8,Vaccinium myrtillus,209477,820390,Unforested,Grazed
+3,2,8,Scirpus cespitosus,209477,820390,Unforested,Grazed
+3,2,8,Erica tetralix,209477,820390,Unforested,Grazed
+3,2,8,Narthecium ossifragum,209477,820390,Unforested,Grazed
+3,2,8,Potentilla erecta,209477,820390,Unforested,Grazed
+3,2,8,Juncus squarrosus,209477,820390,Unforested,Grazed
+3,2,8,Litter,209477,820390,Unforested,Grazed
+3,3,9,Sphagnum sp.,209527,820352,Unforested,Ungrazed
+3,3,9,Calluna vulgaris,209527,820352,Unforested,Ungrazed
+3,3,9,Molinia caerulea,209527,820352,Unforested,Ungrazed
+3,3,9,Scirpus cespitosus,209527,820352,Unforested,Ungrazed
+3,3,9,Potentilla erecta,209527,820352,Unforested,Ungrazed
+3,3,9,Racomitrium sp.,209527,820352,Unforested,Ungrazed
+3,3,9,Narthecium ossifragum,209527,820352,Unforested,Ungrazed
+3,3,9,Lichen,209527,820352,Unforested,Ungrazed
+3,3,9,Erica tetralix,209527,820352,Unforested,Ungrazed
+3,3,9,Litter,209527,820352,Unforested,Ungrazed
+3,3,9,Hylocomium splendens,209527,820352,Unforested,Ungrazed
+3,3,9,Calluna vulgaris,209527,820352,Unforested,Ungrazed
+3,3,9,Sphagnum sp.,209527,820352,Unforested,Ungrazed
+3,3,9,Erica tetralix,209527,820352,Unforested,Ungrazed
+3,3,9,Molinia caerulea,209527,820352,Unforested,Ungrazed
+3,3,9,Potentilla erecta,209527,820352,Unforested,Ungrazed
+3,3,9,Rhytidiadelphus sp.,209527,820352,Unforested,Ungrazed
+3,3,9,Pleurozium schreberi,209527,820352,Unforested,Ungrazed
+3,3,9,Litter,209527,820352,Unforested,Ungrazed
+3,3,9,Juncus squarrosus,209527,820352,Unforested,Ungrazed
+3,3,9,Calluna vulgaris,209527,820352,Unforested,Ungrazed
+3,3,9,Sphagnum sp.,209527,820352,Unforested,Ungrazed
+3,3,9,Molinia caerulea,209527,820352,Unforested,Ungrazed
+3,3,9,Potentilla erecta,209527,820352,Unforested,Ungrazed
+3,3,9,Vaccinium myrtillus,209527,820352,Unforested,Ungrazed
+3,3,9,Nardus stricta,209527,820352,Unforested,Ungrazed
+3,3,9,Narthecium ossifragum,209527,820352,Unforested,Ungrazed
+3,3,9,Blechnum spicant,209527,820352,Unforested,Ungrazed
+3,3,9,Pleurozia purpurea,209527,820352,Unforested,Ungrazed
+4,1,10,Hylocomium splendens,209745,820894,Reforestation,Ungrazed
+4,1,10,Molinia caerulea,209745,820894,Reforestation,Ungrazed
+4,1,10,Litter,209745,820894,Reforestation,Ungrazed
+4,1,10,Vaccinium myrtillus,209745,820894,Reforestation,Ungrazed
+4,1,10,Hylocomium splendens,209745,820894,Reforestation,Ungrazed
+4,1,10,Molinia caerulea,209745,820894,Reforestation,Ungrazed
+4,1,10,Vaccinium myrtillus,209745,820894,Reforestation,Ungrazed
+4,1,10,Litter,209745,820894,Reforestation,Ungrazed
+4,1,10,Potentilla erecta,209745,820894,Reforestation,Ungrazed
+4,1,10,Rhytidiadelphus sp.,209745,820894,Reforestation,Ungrazed
+4,1,10,Molinia caerulea,209745,820894,Reforestation,Ungrazed
+4,1,10,Hylocomium splendens,209745,820894,Reforestation,Ungrazed
+4,1,10,Litter,209745,820894,Reforestation,Ungrazed
+4,1,10,Potentilla erecta,209745,820894,Reforestation,Ungrazed
+4,1,10,Anemone nemorosa,209745,820894,Reforestation,Ungrazed
+4,1,10,Sphagnum sp.,209745,820894,Reforestation,Ungrazed
+4,1,10,Myrica gale,209745,820894,Reforestation,Ungrazed
+4,1,10,Erica tetralix,209745,820894,Reforestation,Ungrazed
+4,1,10,Carex nigra,209745,820894,Reforestation,Ungrazed
+4,1,10,Blechnum spicant,209745,820894,Reforestation,Ungrazed
+4,1,10,Viola palustris,209745,820894,Reforestation,Ungrazed
+4,1,10,Calluna vulgaris,209745,820894,Reforestation,Ungrazed
+4,1,10,Dryopteris filix-mas,209745,820894,Reforestation,Ungrazed
+4,2,11,Platanthera bifolia,209842,820897,Unforested,Grazed
+4,2,11,Eriophorum sp.,209842,820897,Unforested,Grazed
+4,2,11,Scirpus cespitosus,209842,820897,Unforested,Grazed
+4,2,11,Molinia caerulea,209842,820897,Unforested,Grazed
+4,2,11,Calluna vulgaris,209842,820897,Unforested,Grazed
+4,2,11,Erica tetralix,209842,820897,Unforested,Grazed
+4,2,11,Potentilla erecta,209842,820897,Unforested,Grazed
+4,2,11,Narthecium ossifragum,209842,820897,Unforested,Grazed
+4,2,11,Succisa pratensis,209842,820897,Unforested,Grazed
+4,2,11,Carex echinata ,209842,820897,Unforested,Grazed
+4,2,11,Litter,209842,820897,Unforested,Grazed
+4,2,11,Sphagnum sp.,209842,820897,Unforested,Grazed
+4,2,11,Polytrichum sp.,209842,820897,Unforested,Grazed
+4,2,11,Erica cinerea,209842,820897,Unforested,Grazed
+4,2,11,Litter,209842,820897,Unforested,Grazed
+4,2,11,Scirpus cespitosus,209842,820897,Unforested,Grazed
+4,2,11,Molinia caerulea,209842,820897,Unforested,Grazed
+4,2,11,Narthecium ossifragum,209842,820897,Unforested,Grazed
+4,2,11,Calluna vulgaris,209842,820897,Unforested,Grazed
+4,2,11,Myrica gale,209842,820897,Unforested,Grazed
+4,2,11,Erica tetralix,209842,820897,Unforested,Grazed
+4,2,11,Succisa pratensis,209842,820897,Unforested,Grazed
+4,2,11,Potentilla erecta,209842,820897,Unforested,Grazed
+4,2,11,Hylocomium splendens,209842,820897,Unforested,Grazed
+4,2,11,Sphagnum sp.,209842,820897,Unforested,Grazed
+4,2,11,Racomitrium sp.,209842,820897,Unforested,Grazed
+4,2,11,Rhytidiadelphus sp.,209842,820897,Unforested,Grazed
+4,2,11,Lichen,209842,820897,Unforested,Grazed
+4,2,11,Myrica gale,209842,820897,Unforested,Grazed
+4,2,11,Molinia caerulea,209842,820897,Unforested,Grazed
+4,2,11,Scirpus cespitosus,209842,820897,Unforested,Grazed
+4,2,11,Narthecium ossifragum,209842,820897,Unforested,Grazed
+4,2,11,Succisa pratensis,209842,820897,Unforested,Grazed
+4,2,11,Erica tetralix,209842,820897,Unforested,Grazed
+4,2,11,Potentilla erecta,209842,820897,Unforested,Grazed
+4,2,11,Calluna vulgaris,209842,820897,Unforested,Grazed
+4,2,11,Litter,209842,820897,Unforested,Grazed
+4,2,11,Sphagnum sp.,209842,820897,Unforested,Grazed
+4,2,11,Polytrichum sp.,209842,820897,Unforested,Grazed
+4,2,11,Carex echinata ,209842,820897,Unforested,Grazed
+4,2,11,Dactylorhiza maculata,209842,820897,Unforested,Grazed
+4,2,11,Pinguicula vulgaris,209842,820897,Unforested,Grazed
+4,2,11,Gymnadenia conopesa,209842,820897,Unforested,Grazed
+4,3,12,Myrica gale,209792,820932,Unforested,Ungrazed
+4,3,12,Calluna vulgaris,209792,820932,Unforested,Ungrazed
+4,3,12,Molinia caerulea,209792,820932,Unforested,Ungrazed
+4,3,12,Erica tetralix,209792,820932,Unforested,Ungrazed
+4,3,12,Rhytidiadelphus sp.,209792,820932,Unforested,Ungrazed
+4,3,12,Moss sp.,209792,820932,Unforested,Ungrazed
+4,3,12,Litter,209792,820932,Unforested,Ungrazed
+4,3,12,Hylocomium splendens,209792,820932,Unforested,Ungrazed
+4,3,12,Sphagnum sp.,209792,820932,Unforested,Ungrazed
+4,3,12,Narthecium ossifragum,209792,820932,Unforested,Ungrazed
+4,3,12,Potentilla erecta,209792,820932,Unforested,Ungrazed
+4,3,12,Calluna vulgaris,209792,820932,Unforested,Ungrazed
+4,3,12,Erica tetralix,209792,820932,Unforested,Ungrazed
+4,3,12,Myrica gale,209792,820932,Unforested,Ungrazed
+4,3,12,Molinia caerulea,209792,820932,Unforested,Ungrazed
+4,3,12,Scirpus cespitosus,209792,820932,Unforested,Ungrazed
+4,3,12,Potentilla erecta,209792,820932,Unforested,Ungrazed
+4,3,12,Sphagnum sp.,209792,820932,Unforested,Ungrazed
+4,3,12,Litter,209792,820932,Unforested,Ungrazed
+4,3,12,Narthecium ossifragum,209792,820932,Unforested,Ungrazed
+4,3,12,Rhytidiadelphus sp. ,209792,820932,Unforested,Ungrazed
+4,3,12,Hylocomium splendens,209792,820932,Unforested,Ungrazed
+4,3,12,Racomitrium sp.,209792,820932,Unforested,Ungrazed
+4,3,12,Calluna vulgaris,209792,820932,Unforested,Ungrazed
+4,3,12,Erica tetralix,209792,820932,Unforested,Ungrazed
+4,3,12,Molinia caerulea,209792,820932,Unforested,Ungrazed
+4,3,12,Scirpus cespitosus,209792,820932,Unforested,Ungrazed
+4,3,12,Myrica gale,209792,820932,Unforested,Ungrazed
+4,3,12,Potentilla erecta,209792,820932,Unforested,Ungrazed
+4,3,12,Litter,209792,820932,Unforested,Ungrazed
+4,3,12,Lichen,209792,820932,Unforested,Ungrazed
+4,3,12,Racomitrium sp.,209792,820932,Unforested,Ungrazed
+5,1,13,Molinia caerulea,208220,819946,Reforestation,Ungrazed
+5,1,13,Potentilla erecta,208220,819946,Reforestation,Ungrazed
+5,1,13,Rhytidiadelphus sp.,208220,819946,Reforestation,Ungrazed
+5,1,13,Viola palustris,208220,819946,Reforestation,Ungrazed
+5,1,13,Hylocomium splendens,208220,819946,Reforestation,Ungrazed
+5,1,13,Litter,208220,819946,Reforestation,Ungrazed
+5,1,13,Sorbus aucuparia,208220,819946,Reforestation,Ungrazed
+5,1,13,Litter,208220,819946,Reforestation,Ungrazed
+5,1,13,Molinia caerulea,208220,819946,Reforestation,Ungrazed
+5,1,13,Rhytidiadelphus sp.,208220,819946,Reforestation,Ungrazed
+5,1,13,Hylocomium splendens,208220,819946,Reforestation,Ungrazed
+5,1,13,Liverwort sp.,208220,819946,Reforestation,Ungrazed
+5,1,13,Potentilla erecta,208220,819946,Reforestation,Ungrazed
+5,1,13,Anthoxanthum odoratum,208220,819946,Reforestation,Ungrazed
+5,1,13,Dactylorhiza maculata,208220,819946,Reforestation,Ungrazed
+5,1,13,Galium saxatile,208220,819946,Reforestation,Ungrazed
+5,1,13,Hylocomium splendens,208220,819946,Reforestation,Ungrazed
+5,1,13,Pleurozium schreberi,208220,819946,Reforestation,Ungrazed
+5,1,13,Potentilla erecta,208220,819946,Reforestation,Ungrazed
+5,1,13,Litter,208220,819946,Reforestation,Ungrazed
+5,1,13,Rhytidiadelphus sp.,208220,819946,Reforestation,Ungrazed
+5,1,13,Molinia caerulea,208220,819946,Reforestation,Ungrazed
+5,1,13,Blechnum spicant,208220,819946,Reforestation,Ungrazed
+5,1,13,Vaccinium myrtillus,208220,819946,Reforestation,Ungrazed
+5,1,13,Polytrichum sp.,208220,819946,Reforestation,Ungrazed
+5,1,13,Succisa pratensis,208220,819946,Reforestation,Ungrazed
+5,1,13,Juncus effusus,208220,819946,Reforestation,Ungrazed
+5,1,13,Agrostis canina,208220,819946,Reforestation,Ungrazed
+5,1,13,Carex pilulifera,208220,819946,Reforestation,Ungrazed
+5,1,13,Luzula campestris,208220,819946,Reforestation,Ungrazed
+5,1,13,Cirsium palustre,208220,819946,Reforestation,Ungrazed
+5,2,14,Drosera rotundifolia,208779,820036,Unforested,Grazed
+5,2,14,Scirpus cespitosus,208779,820036,Unforested,Grazed
+5,2,14,Molinia caerulea,208779,820036,Unforested,Grazed
+5,2,14,Eriophorum sp.,208779,820036,Unforested,Grazed
+5,2,14,Narthecium ossifragum,208779,820036,Unforested,Grazed
+5,2,14,Erica tetralix,208779,820036,Unforested,Grazed
+5,2,14,Potentilla erecta,208779,820036,Unforested,Grazed
+5,2,14,Sphagnum sp.,208779,820036,Unforested,Grazed
+5,2,14,Polygala serpyllifolia,208779,820036,Unforested,Grazed
+5,2,14,Litter,208779,820036,Unforested,Grazed
+5,2,14,Calluna vulgaris,208779,820036,Unforested,Grazed
+5,2,14,Scirpus cespitosus,208779,820036,Unforested,Grazed
+5,2,14,Racomitrium sp.,208779,820036,Unforested,Grazed
+5,2,14,Calluna vulgaris,208779,820036,Unforested,Grazed
+5,2,14,Narthecium ossifragum,208779,820036,Unforested,Grazed
+5,2,14,Juncus squarrosus,208779,820036,Unforested,Grazed
+5,2,14,Litter,208779,820036,Unforested,Grazed
+5,2,14,Pleurozia purpurea,208779,820036,Unforested,Grazed
+5,2,14,Scirpus cespitosus,208779,820036,Unforested,Grazed
+5,2,14,Erica tetralix,208779,820036,Unforested,Grazed
+5,2,14,Molinia caerulea,208779,820036,Unforested,Grazed
+5,2,14,Eriophorum sp.,208779,820036,Unforested,Grazed
+5,2,14,Narthecium ossifragum,208779,820036,Unforested,Grazed
+5,2,14,Sphagnum sp.,208779,820036,Unforested,Grazed
+5,2,14,Pleurozia purpurea,208779,820036,Unforested,Grazed
+5,2,14,Litter,208779,820036,Unforested,Grazed
+5,2,14,Dactylorhiza maculata,208779,820036,Unforested,Grazed
+5,2,14,Vaccinium myrtillus,208779,820036,Unforested,Grazed
+5,3,15,Calluna vulgaris,208544,820053,Unforested,Ungrazed
+5,3,15,Narthecium ossifragum,208544,820053,Unforested,Ungrazed
+5,3,15,Sphagnum sp.,208544,820053,Unforested,Ungrazed
+5,3,15,Potentilla erecta,208544,820053,Unforested,Ungrazed
+5,3,15,Erica tetralix,208544,820053,Unforested,Ungrazed
+5,3,15,Molinia caerulea,208544,820053,Unforested,Ungrazed
+5,3,15,Litter,208544,820053,Unforested,Ungrazed
+5,3,15,Rhytidiadelphus sp.,208544,820053,Unforested,Ungrazed
+5,3,15,Scirpus cespitosus,208544,820053,Unforested,Ungrazed
+5,3,15,Calluna vulgaris,208544,820053,Unforested,Ungrazed
+5,3,15,Scirpus cespitosus,208544,820053,Unforested,Ungrazed
+5,3,15,Molinia caerulea,208544,820053,Unforested,Ungrazed
+5,3,15,Sphagnum sp.,208544,820053,Unforested,Ungrazed
+5,3,15,Racomitrium sp.,208544,820053,Unforested,Ungrazed
+5,3,15,Erica tetralix,208544,820053,Unforested,Ungrazed
+5,3,15,Narthecium ossifragum,208544,820053,Unforested,Ungrazed
+5,3,15,Potentilla erecta,208544,820053,Unforested,Ungrazed
+5,3,15,Lichen,208544,820053,Unforested,Ungrazed
+5,3,15,Litter ,208544,820053,Unforested,Ungrazed
+5,3,15,Calluna vulgaris,208544,820053,Unforested,Ungrazed
+5,3,15,Sphagnum sp.,208544,820053,Unforested,Ungrazed
+5,3,15,Molinia caerulea,208544,820053,Unforested,Ungrazed
+5,3,15,Juncus squarrosus,208544,820053,Unforested,Ungrazed
+5,3,15,Erica tetralix,208544,820053,Unforested,Ungrazed
+5,3,15,Scirpus cespitosus,208544,820053,Unforested,Ungrazed
+5,3,15,Narthecium ossifragum,208544,820053,Unforested,Ungrazed
+5,3,15,Litter,208544,820053,Unforested,Ungrazed
+5,3,15,Carex echinata ,208544,820053,Unforested,Ungrazed
+5,3,15,Rhytidiadelphus sp.,208544,820053,Unforested,Ungrazed
+5,3,15,Racomittrium sp.,208544,820053,Unforested,Ungrazed
+5,3,15,Eriophorum sp.,208544,820053,Unforested,Ungrazed
+5,3,15,Vaccinium myrtillus,208544,820053,Unforested,Ungrazed
+6,1,16,Rhytidiadelphus sp.,205803,818004,Reforestation,Ungrazed
+6,1,16,Hylocomium splendens,205803,818004,Reforestation,Ungrazed
+6,1,16,Holcus lanatus,205803,818004,Reforestation,Ungrazed
+6,1,16,Deschampsia cespitosa,205803,818004,Reforestation,Ungrazed
+6,1,16,Litter,205803,818004,Reforestation,Ungrazed
+6,1,16,Rumex acetosa,205803,818004,Reforestation,Ungrazed
+6,1,16,Litter,205803,818004,Reforestation,Ungrazed
+6,1,16,Ranunculus ficaria,205803,818004,Reforestation,Ungrazed
+6,1,16,Deschampsia cespitosa,205803,818004,Reforestation,Ungrazed
+6,1,16,Hylocomium splendens,205803,818004,Reforestation,Ungrazed
+6,1,16,Rhytidiadelphus sp.,205803,818004,Reforestation,Ungrazed
+6,1,16,Poa pratensis,205803,818004,Reforestation,Ungrazed
+6,1,16,Poa pratensis,205803,818004,Reforestation,Ungrazed
+6,1,16,Deschampsia cespitosa,205803,818004,Reforestation,Ungrazed
+6,1,16,Ranunculus ficaria,205803,818004,Reforestation,Ungrazed
+6,1,16,Rhytidiadelphus sp.,205803,818004,Reforestation,Ungrazed
+6,1,16,Hylocomium splendens,205803,818004,Reforestation,Ungrazed
+6,1,16,Bare ground,205803,818004,Reforestation,Ungrazed
+6,1,16,Rumex acetosa,205803,818004,Reforestation,Ungrazed
+6,1,16,Litter,205803,818004,Reforestation,Ungrazed
+6,1,16,Poa trivialis,205803,818004,Reforestation,Ungrazed
+6,1,16,Anemone nemorosa,205803,818004,Reforestation,Ungrazed
+6,2,17,Molinia caerulea,206112,818073,Unforested,Grazed
+6,2,17,Potentilla erecta,206112,818073,Unforested,Grazed
+6,2,17,Nardus stricta,206112,818073,Unforested,Grazed
+6,2,17,Juncus squarrosus,206112,818073,Unforested,Grazed
+6,2,17,Sphagnum sp.,206112,818073,Unforested,Grazed
+6,2,17,Carex echinata ,206112,818073,Unforested,Grazed
+6,2,17,Vaccinium myrtillus,206112,818073,Unforested,Grazed
+6,2,17,Galium saxatile,206112,818073,Unforested,Grazed
+6,2,17,Rhytidiadelphus sp.,206112,818073,Unforested,Grazed
+6,2,17,Polygala serpyllifolia,206112,818073,Unforested,Grazed
+6,2,17,Scirpus cespitosus,206112,818073,Unforested,Grazed
+6,2,17,Hylocomium splendens,206112,818073,Unforested,Grazed
+6,2,17,Scirpus cespitosus,206112,818073,Unforested,Grazed
+6,2,17,Molinia caerulea,206112,818073,Unforested,Grazed
+6,2,17,Nardus stricta,206112,818073,Unforested,Grazed
+6,2,17,Eriophorum sp.,206112,818073,Unforested,Grazed
+6,2,17,Sphagnum sp.,206112,818073,Unforested,Grazed
+6,2,17,Potentilla erecta,206112,818073,Unforested,Grazed
+6,2,17,Narthecium ossifragum,206112,818073,Unforested,Grazed
+6,2,17,Polygala serpyllifolia,206112,818073,Unforested,Grazed
+6,2,17,Rhytidiadelphus sp.,206112,818073,Unforested,Grazed
+6,2,17,Vaccinium myrtillus,206112,818073,Unforested,Grazed
+6,2,17,Litter,206112,818073,Unforested,Grazed
+6,2,17,Molinia caerulea,206112,818073,Unforested,Grazed
+6,2,17,Juncus squarrosus,206112,818073,Unforested,Grazed
+6,2,17,Nardus stricta,206112,818073,Unforested,Grazed
+6,2,17,Vaccinium myrtillus,206112,818073,Unforested,Grazed
+6,2,17,Sphagnum sp.,206112,818073,Unforested,Grazed
+6,2,17,Potentilla erecta,206112,818073,Unforested,Grazed
+6,2,17,Polytrichum sp.,206112,818073,Unforested,Grazed
+6,2,17,Carex echinata ,206112,818073,Unforested,Grazed
+6,2,17,Galium saxatile,206112,818073,Unforested,Grazed
+6,2,17,Luzula campestris,206112,818073,Unforested,Grazed
+6,2,17,Hylocomium splendens,206112,818073,Unforested,Grazed
+6,2,17,Carex nigra,206112,818073,Unforested,Grazed
+6,2,17,Rhytidiadelphus sp.,206112,818073,Unforested,Grazed
+6,2,17,Litter ,206112,818073,Unforested,Grazed
+6,2,17,Blechnum spicant,206112,818073,Unforested,Grazed
+6,2,17,Melampyrum pratense,206112,818073,Unforested,Grazed
+6,2,17,Dryopteris filix-mas,206112,818073,Unforested,Grazed
+6,3,18,Calluna vulgaris,205930,818001,Unforested,Ungrazed
+6,3,18,Erica cinerea,205930,818001,Unforested,Ungrazed
+6,3,18,Vaccinium myrtillus,205930,818001,Unforested,Ungrazed
+6,3,18,Molinia caerulea,205930,818001,Unforested,Ungrazed
+6,3,18,Sphagnum sp.,205930,818001,Unforested,Ungrazed
+6,3,18,Juncus squarrosus,205930,818001,Unforested,Ungrazed
+6,3,18,Hylocomium splendens,205930,818001,Unforested,Ungrazed
+6,3,18,Lichen,205930,818001,Unforested,Ungrazed
+6,3,18,Litter,205930,818001,Unforested,Ungrazed
+6,3,18,Molinia caerulea,205930,818001,Unforested,Ungrazed
+6,3,18,Sphagnum sp.,205930,818001,Unforested,Ungrazed
+6,3,18,Calluna vulgaris,205930,818001,Unforested,Ungrazed
+6,3,18,Vaccinium myrtillus,205930,818001,Unforested,Ungrazed
+6,3,18,Litter,205930,818001,Unforested,Ungrazed
+6,3,18,Rhytidiadelphus sp.,205930,818001,Unforested,Ungrazed
+6,3,18,Hylocomium splendens,205930,818001,Unforested,Ungrazed
+6,3,18,Vaccinium myrtillus,205930,818001,Unforested,Ungrazed
+6,3,18,Calluna vulgaris,205930,818001,Unforested,Ungrazed
+6,3,18,Racomitrium sp.,205930,818001,Unforested,Ungrazed
+6,3,18,Sphagnum sp.,205930,818001,Unforested,Ungrazed
+6,3,18,Molinia caerulea,205930,818001,Unforested,Ungrazed
+6,3,18,Lichen,205930,818001,Unforested,Ungrazed
+6,3,18,Litter,205930,818001,Unforested,Ungrazed
+6,3,18,Hylocomium splendens,205930,818001,Unforested,Ungrazed
+6,3,18,Rhytidiadelphus sp.,205930,818001,Unforested,Ungrazed
+6,3,18,Potentilla erecta,205930,818001,Unforested,Ungrazed
+6,3,18,Scirpus cespitosus,205930,818001,Unforested,Ungrazed
+6,3,18,Juncus squarrosus,205930,818001,Unforested,Ungrazed
+6,3,18,Succisa pratensis,205930,818001,Unforested,Ungrazed
+6,3,18,Eriophorum sp.,205930,818001,Unforested,Ungrazed
+6,3,18,Agrostis canina,205930,818001,Unforested,Ungrazed
+7,1,19,Vaccinium myrtillus,205205,818463,Reforestation,Ungrazed
+7,1,19,Ranunculus ficaria,205205,818463,Reforestation,Ungrazed
+7,1,19,Holcus mollis,205205,818463,Reforestation,Ungrazed
+7,1,19,Deschampsia cespitosa,205205,818463,Reforestation,Ungrazed
+7,1,19,Rhytidiadelphus sp.,205205,818463,Reforestation,Ungrazed
+7,1,19,Hylocomium splendens,205205,818463,Reforestation,Ungrazed
+7,1,19,Litter,205205,818463,Reforestation,Ungrazed
+7,1,19,Galium saxatile,205205,818463,Reforestation,Ungrazed
+7,1,19,Deschampsia cespitosa,205205,818463,Reforestation,Ungrazed
+7,1,19,Potentilla erecta,205205,818463,Reforestation,Ungrazed
+7,1,19,Rumex acetosa,205205,818463,Reforestation,Ungrazed
+7,1,19,Vaccinium myrtillus,205205,818463,Reforestation,Ungrazed
+7,1,19,Rhytidiadelphus sp.,205205,818463,Reforestation,Ungrazed
+7,1,19,Litter,205205,818463,Reforestation,Ungrazed
+7,1,19,Anthoxanthum odoratum,205205,818463,Reforestation,Ungrazed
+7,1,19,Vaccinium myrtillus,205205,818463,Reforestation,Ungrazed
+7,1,19,Potentilla erecta,205205,818463,Reforestation,Ungrazed
+7,1,19,Rhytidiadelphus sp.,205205,818463,Reforestation,Ungrazed
+7,1,19,Deschampsia cespitosa,205205,818463,Reforestation,Ungrazed
+7,1,19,Hylocomium splendens,205205,818463,Reforestation,Ungrazed
+7,1,19,Rumex acetosa,205205,818463,Reforestation,Ungrazed
+7,1,19,Litter,205205,818463,Reforestation,Ungrazed
+7,1,19,Poa trivialis,205205,818463,Reforestation,Ungrazed
+7,1,19,Blechnum spicant,205205,818463,Reforestation,Ungrazed
+7,1,19,Hyacinthoides non-scripta,205205,818463,Reforestation,Ungrazed
+7,1,19,Anemone nemorosa,205205,818463,Reforestation,Ungrazed
+7,1,19,Viola palustris,205205,818463,Reforestation,Ungrazed
+7,1,19,Veronica montana,205205,818463,Reforestation,Ungrazed
+7,2,20,Narthecium ossifragum,205773,818728,Unforested,Grazed
+7,2,20,Scirpus cespitosus,205773,818728,Unforested,Grazed
+7,2,20,Molinia caerulea,205773,818728,Unforested,Grazed
+7,2,20,Erica tetralix,205773,818728,Unforested,Grazed
+7,2,20,Litter ,205773,818728,Unforested,Grazed
+7,2,20,Potentilla erecta,205773,818728,Unforested,Grazed
+7,2,20,Erica cinerea,205773,818728,Unforested,Grazed
+7,2,20,Calluna vulgaris,205773,818728,Unforested,Grazed
+7,2,20,Lichen,205773,818728,Unforested,Grazed
+7,2,20,Racomitrium sp.,205773,818728,Unforested,Grazed
+7,2,20,Potentilla erecta,205773,818728,Unforested,Grazed
+7,2,20,Calluna vulgaris,205773,818728,Unforested,Grazed
+7,2,20,Sphagnum sp.,205773,818728,Unforested,Grazed
+7,2,20,Molinia caerulea,205773,818728,Unforested,Grazed
+7,2,20,Erica tetralix,205773,818728,Unforested,Grazed
+7,2,20,Dactylorhiza maculata,205773,818728,Unforested,Grazed
+7,2,20,Litter,205773,818728,Unforested,Grazed
+7,2,20,Lichen,205773,818728,Unforested,Grazed
+7,2,20,Narthecium ossifragum,205773,818728,Unforested,Grazed
+7,2,20,Star sedge,205773,818728,Unforested,Grazed
+7,2,20,Scirpus cespitosus,205773,818728,Unforested,Grazed
+7,2,20,Scirpus cespitosus,205773,818728,Unforested,Grazed
+7,2,20,Molinia caerulea,205773,818728,Unforested,Grazed
+7,2,20,Erica tetralix,205773,818728,Unforested,Grazed
+7,2,20,Polygala serpyllifolia,205773,818728,Unforested,Grazed
+7,2,20,Narthecium ossifragum,205773,818728,Unforested,Grazed
+7,2,20,Litter,205773,818728,Unforested,Grazed
+7,2,20,Potentilla erecta,205773,818728,Unforested,Grazed
+7,2,20,Racomitrium sp.,205773,818728,Unforested,Grazed
+7,2,20,Erica cinerea,205773,818728,Unforested,Grazed
+7,2,20,Hard fern,205773,818728,Unforested,Grazed
+7,2,20,Juncus squarrosus,205773,818728,Unforested,Grazed
+7,3,21,Scirpus cespitosus,205381,818550,Unforested,Ungrazed
+7,3,21,Molinia caerulea,205381,818550,Unforested,Ungrazed
+7,3,21,Calluna vulgaris,205381,818550,Unforested,Ungrazed
+7,3,21,Erica tetralix,205381,818550,Unforested,Ungrazed
+7,3,21,Potentilla erecta,205381,818550,Unforested,Ungrazed
+7,3,21,Rhytidiadelphus sp.?,205381,818550,Unforested,Ungrazed
+7,3,21,Racomitrium sp.,205381,818550,Unforested,Ungrazed
+7,3,21,Narthecium ossifragum,205381,818550,Unforested,Ungrazed
+7,3,21,Anemone nemorosa,205381,818550,Unforested,Ungrazed
+7,3,21,Polygala serpyllifolia,205381,818550,Unforested,Ungrazed
+7,3,21,Succisa pratensis,205381,818550,Unforested,Ungrazed
+7,3,21,Litter,205381,818550,Unforested,Ungrazed
+7,3,21,Dactylorhiza maculata,205381,818550,Unforested,Ungrazed
+7,3,21,Potentilla erecta,205381,818550,Unforested,Ungrazed
+7,3,21,Calluna vulgaris,205381,818550,Unforested,Ungrazed
+7,3,21,Molinia caerulea,205381,818550,Unforested,Ungrazed
+7,3,21,Scirpus cespitosus,205381,818550,Unforested,Ungrazed
+7,3,21,Hylocomium splendens,205381,818550,Unforested,Ungrazed
+7,3,21,Erica cinerea,205381,818550,Unforested,Ungrazed
+7,3,21,Erica tetralix,205381,818550,Unforested,Ungrazed
+7,3,21,Rhytidiadelphus sp.,205381,818550,Unforested,Ungrazed
+7,3,21,Hypochaeris radicata,205381,818550,Unforested,Ungrazed
+7,3,21,Polygala serpyllifolia,205381,818550,Unforested,Ungrazed
+7,3,21,Litter,205381,818550,Unforested,Ungrazed
+7,3,21,Calluna vulgaris,205381,818550,Unforested,Ungrazed
+7,3,21,Molinia caerulea,205381,818550,Unforested,Ungrazed
+7,3,21,Narthecium ossifragum,205381,818550,Unforested,Ungrazed
+7,3,21,Potentilla erecta,205381,818550,Unforested,Ungrazed
+7,3,21,Scirpus cespitosus,205381,818550,Unforested,Ungrazed
+7,3,21,Rhytidiadelphus sp.,205381,818550,Unforested,Ungrazed
+7,3,21,Erica tetralix,205381,818550,Unforested,Ungrazed
+7,3,21,Polygala serpyllifolia,205381,818550,Unforested,Ungrazed
+7,3,21,Hylocomium splendens,205381,818550,Unforested,Ungrazed
+7,3,21,Lichen,205381,818550,Unforested,Ungrazed
+7,3,21,Litter,205381,818550,Unforested,Ungrazed
+7,3,21,Hypericum pulchrum,205381,818550,Unforested,Ungrazed
+7,3,21,Erica cinerea,205381,818550,Unforested,Ungrazed
+7,3,21,Galium saxatile,205381,818550,Unforested,Ungrazed
+7,3,21,Horsetail sp.,205381,818550,Unforested,Ungrazed
+7,3,21,Blechnum spicant,205381,818550,Unforested,Ungrazed
+7,3,21,Angelica sylvestris,205381,818550,Unforested,Ungrazed
+7,3,21,Carex pilulifera,205381,818550,Unforested,Ungrazed
+7,3,21,Viola palustris,205381,818550,Unforested,Ungrazed
+7,3,21,Holcus lanatus,205381,818550,Unforested,Ungrazed
+7,3,21,Carex panicea,205381,818550,Unforested,Ungrazed
+7,3,21,Racomitrium sp.,205381,818550,Unforested,Ungrazed
+7,3,21,Plantago lanceolata ,205381,818550,Unforested,Ungrazed
+8,1,22,Pteridium aquilinum,223516,825891,Reforestation,Ungrazed
+8,1,22,Calluna vulgaris,223516,825891,Reforestation,Ungrazed
+8,1,22,Molinia caerulea,223516,825891,Reforestation,Ungrazed
+8,1,22,Litter,223516,825891,Reforestation,Ungrazed
+8,1,22,Hylocomium splendens,223516,825891,Reforestation,Ungrazed
+8,1,22,Pteridium aquilinum,223516,825891,Reforestation,Ungrazed
+8,1,22,Calluna vulgaris,223516,825891,Reforestation,Ungrazed
+8,1,22,Litter,223516,825891,Reforestation,Ungrazed
+8,1,22,Calluna vulgaris,223516,825891,Reforestation,Ungrazed
+8,1,22,Molinia caerulea,223516,825891,Reforestation,Ungrazed
+8,1,22,Hylocomium splendens,223516,825891,Reforestation,Ungrazed
+8,1,22,Rhytidiadelphus sp.,223516,825891,Reforestation,Ungrazed
+8,1,22,Potentilla erecta,223516,825891,Reforestation,Ungrazed
+8,1,22,Pteridium aquilinum,223516,825891,Reforestation,Ungrazed
+8,1,22,Litter,223516,825891,Reforestation,Ungrazed
+8,1,22,Molinia caerulea,223516,825891,Reforestation,Ungrazed
+8,1,22,Hylocomium splendens,223516,825891,Reforestation,Ungrazed
+8,1,22,Pleurozium schreberi,223516,825891,Reforestation,Ungrazed
+8,1,22,Potentilla erecta,223516,825891,Reforestation,Ungrazed
+8,1,22,Calluna vulgaris,223516,825891,Reforestation,Ungrazed
+8,2,23,Myrica gale,223478,825843,Unforested,Grazed
+8,2,23,Molinia caerulea,223478,825843,Unforested,Grazed
+8,2,23,Litter,223478,825843,Unforested,Grazed
+8,2,23,Potentilla erecta,223478,825843,Unforested,Grazed
+8,2,23,Calluna vulgaris,223478,825843,Unforested,Grazed
+8,2,23,Pleurozium schreberi,223478,825843,Unforested,Grazed
+8,2,23,Hylocomium splendens,223478,825843,Unforested,Grazed
+8,2,23,Erica tetralix,223478,825843,Unforested,Grazed
+8,2,23,Potentilla erecta,223478,825843,Unforested,Grazed
+8,2,23,Calluna vulgaris,223478,825843,Unforested,Grazed
+8,2,23,Erica tetralix,223478,825843,Unforested,Grazed
+8,2,23,Litter,223478,825843,Unforested,Grazed
+8,2,23,Molinia caerulea,223478,825843,Unforested,Grazed
+8,2,23,Hylocomium splendens,223478,825843,Unforested,Grazed
+8,2,23,Rhytidiadelphus sp.,223478,825843,Unforested,Grazed
+8,2,23,Pleurozium schreberi,223478,825843,Unforested,Grazed
+8,2,23,Polygala serpyllifolia,223478,825843,Unforested,Grazed
+8,2,23,Myrica gale,223478,825843,Unforested,Grazed
+8,2,23,Narthecium ossifragum,223478,825843,Unforested,Grazed
+8,2,23,Calluna vulgaris,223478,825843,Unforested,Grazed
+8,2,23,Erica tetralix,223478,825843,Unforested,Grazed
+8,2,23,Litter,223478,825843,Unforested,Grazed
+8,2,23,Molinia caerulea,223478,825843,Unforested,Grazed
+8,2,23,Hylocomium splendens,223478,825843,Unforested,Grazed
+8,2,23,Rhytidiadelphus sp.,223478,825843,Unforested,Grazed
+8,2,23,Pleurozium schreberi,223478,825843,Unforested,Grazed
+8,2,23,Polygala serpyllifolia,223478,825843,Unforested,Grazed
+8,3,24,Myrica gale,223457,825820,Unforested,Ungrazed
+8,3,24,Erica tetralix,223457,825820,Unforested,Ungrazed
+8,3,24,Erica cinerea,223457,825820,Unforested,Ungrazed
+8,3,24,Molinia caerulea,223457,825820,Unforested,Ungrazed
+8,3,24,Litter,223457,825820,Unforested,Ungrazed
+8,3,24,Sphagnum sp.,223457,825820,Unforested,Ungrazed
+8,3,24,Hylocomium splendens,223457,825820,Unforested,Ungrazed
+8,3,24,Pleurozium schreberi,223457,825820,Unforested,Ungrazed
+8,3,24,Calluna vulgaris,223457,825820,Unforested,Ungrazed
+8,3,24,Molinia caerulea,223457,825820,Unforested,Ungrazed
+8,3,24,Lichen,223457,825820,Unforested,Ungrazed
+8,3,24,Erica tetralix,223457,825820,Unforested,Ungrazed
+8,3,24,Pleurozium schreberi,223457,825820,Unforested,Ungrazed
+8,3,24,Litter,223457,825820,Unforested,Ungrazed
+8,3,24,Hylocomium splendens,223457,825820,Unforested,Ungrazed
+8,3,24,Sphagnum sp. ,223457,825820,Unforested,Ungrazed
+8,3,24,Potentilla erecta,223457,825820,Unforested,Ungrazed
+8,3,24,Molinia caerulea,223457,825820,Unforested,Ungrazed
+8,3,24,Myrica gale,223457,825820,Unforested,Ungrazed
+8,3,24,Erica tetralix,223457,825820,Unforested,Ungrazed
+8,3,24,Litter,223457,825820,Unforested,Ungrazed
+8,3,24,Erica cinerea,223457,825820,Unforested,Ungrazed
+8,3,24,Pleurozium schreberi,223457,825820,Unforested,Ungrazed
+8,3,24,Hylocomium splendens,223457,825820,Unforested,Ungrazed
+8,3,24,Potentilla erecta,223457,825820,Unforested,Ungrazed
+8,3,24,Narthecium ossifragum,223457,825820,Unforested,Ungrazed
+8,3,24,Rhytidiadelphus sp.,223457,825820,Unforested,Ungrazed
+8,4,25,Erica tetralix,223845,825893,Mature,Grazed
+8,4,25,Vaccinium myrtillus,223845,825893,Mature,Grazed
+8,4,25,Calluna vulgaris,223845,825893,Mature,Grazed
+8,4,25,Sphagnum sp.,223845,825893,Mature,Grazed
+8,4,25,Hylocomium splendens,223845,825893,Mature,Grazed
+8,4,25,Pleurozium schreberi,223845,825893,Mature,Grazed
+8,4,25,Litter,223845,825893,Mature,Grazed
+8,4,25,Melampyrum pratense,223845,825893,Mature,Grazed
+8,4,25,Vaccinium myrtillus,223845,825893,Mature,Grazed
+8,4,25,Calluna vulgaris,223845,825893,Mature,Grazed
+8,4,25,Erica cinerea,223845,825893,Mature,Grazed
+8,4,25,Pteridium aquilinum,223845,825893,Mature,Grazed
+8,4,25,Pleurozium schreberi,223845,825893,Mature,Grazed
+8,4,25,Hylocomium splendens,223845,825893,Mature,Grazed
+8,4,25,Litter,223845,825893,Mature,Grazed
+8,4,25,Melampyrum pratense,223845,825893,Mature,Grazed
+8,4,25,Rhytidiadelphus sp.,223845,825893,Mature,Grazed
+8,4,25,Calluna vulgaris,223845,825893,Mature,Grazed
+8,4,25,Vaccinium myrtillus,223845,825893,Mature,Grazed
+8,4,25,Pleurozium schreberi,223845,825893,Mature,Grazed
+8,4,25,Hylocomium splendens,223845,825893,Mature,Grazed
+8,4,25,Rhytidiadelphus sp.,223845,825893,Mature,Grazed
+8,4,25,Vaccinium vitis-idaea,223845,825893,Mature,Grazed
+8,4,25,Litter,223845,825893,Mature,Grazed
+8,4,25,Molinia caerulea,223845,825893,Mature,Grazed
+8,5,26,Vaccinium myrtillus,223845,825893,Mature,Ungrazed
+8,5,26,Sphagnum sp.,223845,825893,Mature,Ungrazed
+8,5,26,Calluna vulgaris,223845,825893,Mature,Ungrazed
+8,5,26,Hylocomium splendens,223845,825893,Mature,Ungrazed
+8,5,26,Litter,223845,825893,Mature,Ungrazed
+8,5,26,Ptillium crista-castrensis,223845,825893,Mature,Ungrazed
+8,5,26,Sorbus aucuparia,223845,825893,Mature,Ungrazed
+8,5,26,Vaccinium myrtillus,223845,825893,Mature,Ungrazed
+8,5,26,Calluna vulgaris,223845,825893,Mature,Ungrazed
+8,5,26,Hylocomium splendens,223845,825893,Mature,Ungrazed
+8,5,26,Sphagnum sp.,223845,825893,Mature,Ungrazed
+8,5,26,Rhytidiadelphus sp.,223845,825893,Mature,Ungrazed
+8,5,26,Vaccinium vitis-idaea,223845,825893,Mature,Ungrazed
+8,5,26,Litter,223845,825893,Mature,Ungrazed
+8,5,26,Vaccinium myrtillus,223845,825893,Mature,Ungrazed
+8,5,26,Calluna vulgaris,223845,825893,Mature,Ungrazed
+8,5,26,Molinia caerulea,223845,825893,Mature,Ungrazed
+8,5,26,Vaccinium vitis-idaea,223845,825893,Mature,Ungrazed
+8,5,26,Hylocomium splendens,223845,825893,Mature,Ungrazed
+8,5,26,Blechnum spicant,223845,825893,Mature,Ungrazed
+8,5,26,Litter,223845,825893,Mature,Ungrazed
+8,5,26,Pteridium aquilinum,223845,825893,Mature,Ungrazed
+8,5,26,Agrostis canina,223845,825893,Mature,Ungrazed
+8,5,26,Erica tetralix,223845,825893,Mature,Ungrazed
+9,1,27,Vaccinium myrtillus,214590,821089,Reforestation,Ungrazed
+9,1,27,Calluna vulgaris,214590,821089,Reforestation,Ungrazed
+9,1,27,Rhytidiadelphus sp.,214590,821089,Reforestation,Ungrazed
+9,1,27,Hylocomium splendens,214590,821089,Reforestation,Ungrazed
+9,1,27,Pleurozium schreberi,214590,821089,Reforestation,Ungrazed
+9,1,27,Litter,214590,821089,Reforestation,Ungrazed
+9,1,27,Sphagnum sp.,214590,821089,Reforestation,Ungrazed
+9,1,27,Hylocomium splendens,214590,821089,Reforestation,Ungrazed
+9,1,27,Calluna vulgaris,214590,821089,Reforestation,Ungrazed
+9,1,27,Vaccinium myrtillus,214590,821089,Reforestation,Ungrazed
+9,1,27,Pinus sylvestris,214590,821089,Reforestation,Ungrazed
+9,1,27,Pleurozium schreberi,214590,821089,Reforestation,Ungrazed
+9,1,27,Litter,214590,821089,Reforestation,Ungrazed
+9,1,27,Calluna vulgaris,214590,821089,Reforestation,Ungrazed
+9,1,27,Sphagnum sp.,214590,821089,Reforestation,Ungrazed
+9,1,27,Vaccinium myrtillus,214590,821089,Reforestation,Ungrazed
+9,1,27,Molinia caerulea,214590,821089,Reforestation,Ungrazed
+9,1,27,Poa trivialis,214590,821089,Reforestation,Ungrazed
+9,1,27,Hylocomium splendens,214590,821089,Reforestation,Ungrazed
+9,1,27,Litter,214590,821089,Reforestation,Ungrazed
+9,1,27,Rhytidiadelphus sp.,214590,821089,Reforestation,Ungrazed
+9,1,27,Potentilla erecta,214590,821089,Reforestation,Ungrazed
+9,1,27,Galium saxatile,214590,821089,Reforestation,Ungrazed
+9,1,27,Dryopteris filix-mas,214590,821089,Reforestation,Ungrazed
+9,1,27,Blechnum spicant,214590,821089,Reforestation,Ungrazed
+9,1,27,Carex hostiana,214590,821089,Reforestation,Ungrazed
+9,2,28,Vaccinium myrtillus,214613,821088,Unforested,Grazed
+9,2,28,Calluna vulgaris,214613,821088,Unforested,Grazed
+9,2,28,Sphagnum sp. ,214613,821088,Unforested,Grazed
+9,2,28,Erica tetralix,214613,821088,Unforested,Grazed
+9,2,28,Molinia caerulea,214613,821088,Unforested,Grazed
+9,2,28,Rhytidiadelphus sp.,214613,821088,Unforested,Grazed
+9,2,28,Hylocomium splendens,214613,821088,Unforested,Grazed
+9,2,28,Litter,214613,821088,Unforested,Grazed
+9,2,28,Erica cinerea,214613,821088,Unforested,Grazed
+9,2,28,Calluna vulgaris,214613,821088,Unforested,Grazed
+9,2,28,Hylocomium splendens,214613,821088,Unforested,Grazed
+9,2,28,Pleurozium schreberi,214613,821088,Unforested,Grazed
+9,2,28,Rhytidiadelphus sp.,214613,821088,Unforested,Grazed
+9,2,28,Sphagnum sp.,214613,821088,Unforested,Grazed
+9,2,28,Vaccinium vitis-idaea,214613,821088,Unforested,Grazed
+9,2,28,Litter,214613,821088,Unforested,Grazed
+9,2,28,Eriophorum sp.,214613,821088,Unforested,Grazed
+9,2,28,Polytrichum sp.,214613,821088,Unforested,Grazed
+9,2,28,Lichen,214613,821088,Unforested,Grazed
+9,2,28,Narthecium ossifragum,214613,821088,Unforested,Grazed
+9,2,28,Calluna vulgaris,214613,821088,Unforested,Grazed
+9,2,28,Sphagnum sp. ,214613,821088,Unforested,Grazed
+9,2,28,Juncus squarrosus,214613,821088,Unforested,Grazed
+9,2,28,Rhytidiadelphus sp.,214613,821088,Unforested,Grazed
+9,2,28,Hylocomium splendens,214613,821088,Unforested,Grazed
+9,2,28,Eriophorum sp.,214613,821088,Unforested,Grazed
+9,2,28,Vaccinium vitis-idaea,214613,821088,Unforested,Grazed
+9,2,28,Litter,214613,821088,Unforested,Grazed
+9,2,28,Narthecium ossifragum,214613,821088,Unforested,Grazed
+9,2,28,Pleurozium schreberi,214613,821088,Unforested,Grazed
+9,2,28,Vaccinium myrtillus,214613,821088,Unforested,Grazed
+9,2,28,Scirpus cespitosus,214613,821088,Unforested,Grazed
+9,3,29,Calluna vulgaris,214876,821044,Unforested,Ungrazed
+9,3,29,Erica tetralix,214876,821044,Unforested,Ungrazed
+9,3,29,Erica cinerea,214876,821044,Unforested,Ungrazed
+9,3,29,Sphagnum sp.,214876,821044,Unforested,Ungrazed
+9,3,29,Scirpus cespitosus,214876,821044,Unforested,Ungrazed
+9,3,29,Litter,214876,821044,Unforested,Ungrazed
+9,3,29,Lichen,214876,821044,Unforested,Ungrazed
+9,3,29,Hylocomium splendens,214876,821044,Unforested,Ungrazed
+9,3,29,Eriophorum sp.,214876,821044,Unforested,Ungrazed
+9,3,29,Calluna vulgaris,214876,821044,Unforested,Ungrazed
+9,3,29,Sphagnum sp.,214876,821044,Unforested,Ungrazed
+9,3,29,Molinia caerulea,214876,821044,Unforested,Ungrazed
+9,3,29,Erica cinerea,214876,821044,Unforested,Ungrazed
+9,3,29,Vaccinium myrtillus,214876,821044,Unforested,Ungrazed
+9,3,29,Rhytidiadelphus sp.,214876,821044,Unforested,Ungrazed
+9,3,29,Litter,214876,821044,Unforested,Ungrazed
+9,3,29,Calluna vulgaris,214876,821044,Unforested,Ungrazed
+9,3,29,Sphagnum sp.,214876,821044,Unforested,Ungrazed
+9,3,29,Eriophorum sp.,214876,821044,Unforested,Ungrazed
+9,3,29,Erica tetralix,214876,821044,Unforested,Ungrazed
+9,3,29,Molinia caerulea,214876,821044,Unforested,Ungrazed
+9,3,29,Litter,214876,821044,Unforested,Ungrazed
+9,3,29,Lichen,214876,821044,Unforested,Ungrazed
+9,3,29,Pleurozium schreberi,214876,821044,Unforested,Ungrazed
+9,3,29,Rhytidiadelphus sp.,214876,821044,Unforested,Ungrazed
+9,3,29,Narthecium ossifragum,214876,821044,Unforested,Ungrazed
+9,3,29,Potentilla erecta,214876,821044,Unforested,Ungrazed
+9,3,29,Vaccinium myrtillus,214876,821044,Unforested,Ungrazed
+9,4,30,Vaccinium myrtillus,216455,822114,Mature,Grazed
+9,4,30,Calluna vulgaris,216455,822114,Mature,Grazed
+9,4,30,Vaccinium vitis-idaea,216455,822114,Mature,Grazed
+9,4,30,Hylocomium splendens,216455,822114,Mature,Grazed
+9,4,30,Sphagnum sp.,216455,822114,Mature,Grazed
+9,4,30,Erica cinerea,216455,822114,Mature,Grazed
+9,4,30,Pleurozium schreberi,216455,822114,Mature,Grazed
+9,4,30,Litter,216455,822114,Mature,Grazed
+9,4,30,Molinia caerulea,216455,822114,Mature,Grazed
+9,4,30,Melampyrum pratense,216455,822114,Mature,Grazed
+9,4,30,Vaccinium myrtillus,216455,822114,Mature,Grazed
+9,4,30,Sphagnum sp.,216455,822114,Mature,Grazed
+9,4,30,Hylocomium splendens,216455,822114,Mature,Grazed
+9,4,30,Rhytidiadelphus sp.,216455,822114,Mature,Grazed
+9,4,30,Litter,216455,822114,Mature,Grazed
+9,4,30,Calluna vulgaris,216455,822114,Mature,Grazed
+9,4,30,Sphagnum sp.,216455,822114,Mature,Grazed
+9,4,30,Vaccinium myrtillus,216455,822114,Mature,Grazed
+9,4,30,Hylocomium splendens,216455,822114,Mature,Grazed
+9,4,30,Pleurozium schreberi,216455,822114,Mature,Grazed
+9,4,30,Litter,216455,822114,Mature,Grazed
+9,4,30,Ptillium crista-castrensis,216455,822114,Mature,Grazed
+9,4,30,Scirpus cespitosus,216455,822114,Mature,Grazed
+9,4,30,Erica tetralix,216455,822114,Mature,Grazed
+9,4,30,Narthecium ossifragum,216455,822114,Mature,Grazed
+9,5,31,Calluna vulgaris,216452,822065,Mature,Ungrazed
+9,5,31,Vaccinium myrtillus,216452,822065,Mature,Ungrazed
+9,5,31,Sphagnum sp. ,216452,822065,Mature,Ungrazed
+9,5,31,Litter,216452,822065,Mature,Ungrazed
+9,5,31,Rhytidiadelphus sp.,216452,822065,Mature,Ungrazed
+9,5,31,Hylocomium splendens,216452,822065,Mature,Ungrazed
+9,5,31,Vaccinium myrtillus,216452,822065,Mature,Ungrazed
+9,5,31,Hylocomium splendens,216452,822065,Mature,Ungrazed
+9,5,31,Sphagnum sp.,216452,822065,Mature,Ungrazed
+9,5,31,Erica cinerea,216452,822065,Mature,Ungrazed
+9,5,31,Molinia caerulea,216452,822065,Mature,Ungrazed
+9,5,31,Vaccinium vitis-idaea,216452,822065,Mature,Ungrazed
+9,5,31,Litter,216452,822065,Mature,Ungrazed
+9,5,31,Pleurozium schreberi,216452,822065,Mature,Ungrazed
+9,5,31,Rhytidiadelphus sp.,216452,822065,Mature,Ungrazed
+9,5,31,Polytrichum sp.,216452,822065,Mature,Ungrazed
+9,5,31,Calluna vulgaris,216452,822065,Mature,Ungrazed
+9,5,31,Calluna vulgaris,216452,822065,Mature,Ungrazed
+9,5,31,Juniperus communis,216452,822065,Mature,Ungrazed
+9,5,31,Vaccinium myrtillus,216452,822065,Mature,Ungrazed
+9,5,31,Hylocomium splendens,216452,822065,Mature,Ungrazed
+9,5,31,Sphagnum sp.,216452,822065,Mature,Ungrazed
+9,5,31,Molinia caerulea,216452,822065,Mature,Ungrazed
+9,5,31,Litter,216452,822065,Mature,Ungrazed
+9,5,31,Rhytidiadelphus sp.,216452,822065,Mature,Ungrazed
+9,5,31,Agrostis canina,216452,822065,Mature,Ungrazed
+9,5,31,Potentilla erecta,216452,822065,Mature,Ungrazed
+9,5,31,Erica tetralix,216452,822065,Mature,Ungrazed
+10,1,32,Calluna vulgaris,235592,817787,Reforestation,Ungrazed
+10,1,32,Sphagnum sp.,235592,817787,Reforestation,Ungrazed
+10,1,32,Potentilla erecta,235592,817787,Reforestation,Ungrazed
+10,1,32,Molinia caerulea,235592,817787,Reforestation,Ungrazed
+10,1,32,Pleurozium schreberi,235592,817787,Reforestation,Ungrazed
+10,1,32,Hylocomium splendens,235592,817787,Reforestation,Ungrazed
+10,1,32,Litter,235592,817787,Reforestation,Ungrazed
+10,1,32,Rhytidiadelphus sp.,235592,817787,Reforestation,Ungrazed
+10,1,32,Sphaghum sp.,235592,817787,Reforestation,Ungrazed
+10,1,32,Polytrichum sp.,235592,817787,Reforestation,Ungrazed
+10,1,32,Calluna vulgaris,235592,817787,Reforestation,Ungrazed
+10,1,32,Scirpus cespitosus,235592,817787,Reforestation,Ungrazed
+10,1,32,Hylocomium splendens,235592,817787,Reforestation,Ungrazed
+10,1,32,Erica cinerea,235592,817787,Reforestation,Ungrazed
+10,1,32,Erica tetralix,235592,817787,Reforestation,Ungrazed
+10,1,32,Calluna vulgaris,235592,817787,Reforestation,Ungrazed
+10,1,32,Sphagnum sp.,235592,817787,Reforestation,Ungrazed
+10,1,32,Polytrichum sp.,235592,817787,Reforestation,Ungrazed
+10,1,32,Hylocomium splendens,235592,817787,Reforestation,Ungrazed
+10,1,32,Pleurozium schreberi,235592,817787,Reforestation,Ungrazed
+10,1,32,Erica tetralix,235592,817787,Reforestation,Ungrazed
+10,1,32,Potentilla erecta,235592,817787,Reforestation,Ungrazed
+10,1,32,Litter,235592,817787,Reforestation,Ungrazed
+10,1,32,Blechnum spicant,235592,817787,Reforestation,Ungrazed
+10,1,32,Vaccinium myrtillus,235592,817787,Reforestation,Ungrazed
+10,1,32,Pteridium aquilinum,235592,817787,Reforestation,Ungrazed
+10,2,33,Calluna vulgaris,235570,817892,Unforested,Grazed
+10,2,33,Scirpus cespitosus,235570,817892,Unforested,Grazed
+10,2,33,Erica tetralix,235570,817892,Unforested,Grazed
+10,2,33,Sphagnumsp.,235570,817892,Unforested,Grazed
+10,2,33,Molinia caerulea,235570,817892,Unforested,Grazed
+10,2,33,Potentilla erecta,235570,817892,Unforested,Grazed
+10,2,33,Litter,235570,817892,Unforested,Grazed
+10,2,33,Lichen,235570,817892,Unforested,Grazed
+10,2,33,Pleurozium schreberi,235570,817892,Unforested,Grazed
+10,2,33,Scirpus cespitosus,235570,817892,Unforested,Grazed
+10,2,33,Molinia caerulea,235570,817892,Unforested,Grazed
+10,2,33,Calluna vulgaris,235570,817892,Unforested,Grazed
+10,2,33,Erica tetralix,235570,817892,Unforested,Grazed
+10,2,33,Narthecium ossifragum,235570,817892,Unforested,Grazed
+10,2,33,Litter,235570,817892,Unforested,Grazed
+10,2,33,Lichen,235570,817892,Unforested,Grazed
+10,2,33,Sphagnum sp.,235570,817892,Unforested,Grazed
+10,2,33,Rhytidiadelphus sp.,235570,817892,Unforested,Grazed
+10,2,33,Erica cinerea,235570,817892,Unforested,Grazed
+10,2,33,Calluna vulgaris,235570,817892,Unforested,Grazed
+10,2,33,Erica tetralix,235570,817892,Unforested,Grazed
+10,2,33,Erica cinerea,235570,817892,Unforested,Grazed
+10,2,33,Molinia caerulea,235570,817892,Unforested,Grazed
+10,2,33,Scirpus cespitosus,235570,817892,Unforested,Grazed
+10,2,33,Sphagnumsp.,235570,817892,Unforested,Grazed
+10,2,33,Litter,235570,817892,Unforested,Grazed
+10,2,33,Lichen,235570,817892,Unforested,Grazed
+10,2,33,Potentilla erecta,235570,817892,Unforested,Grazed
+10,3,34,Calluna vulgaris,235496,818006,Unforested,Ungrazed
+10,3,34,Sphagnum sp.,235496,818006,Unforested,Ungrazed
+10,3,34,Erica tetralix,235496,818006,Unforested,Ungrazed
+10,3,34,Molinia caerulea,235496,818006,Unforested,Ungrazed
+10,3,34,Myrica gale,235496,818006,Unforested,Ungrazed
+10,3,34,Narthecium ossifragum,235496,818006,Unforested,Ungrazed
+10,3,34,Scirpus cespitosus,235496,818006,Unforested,Ungrazed
+10,3,34,Potentilla erecta,235496,818006,Unforested,Ungrazed
+10,3,34,Carex echinata,235496,818006,Unforested,Ungrazed
+10,3,34,Litter,235496,818006,Unforested,Ungrazed
+10,3,34,Hylocomium splendens,235496,818006,Unforested,Ungrazed
+10,3,34,Racomitrium sp.,235496,818006,Unforested,Ungrazed
+10,3,34,Drosera rotundifolia,235496,818006,Unforested,Ungrazed
+10,3,34,Sphagnumsp.,235496,818006,Unforested,Ungrazed
+10,3,34,Molinia caerulea,235496,818006,Unforested,Ungrazed
+10,3,34,Erica tetralix,235496,818006,Unforested,Ungrazed
+10,3,34,Calluna vulgaris,235496,818006,Unforested,Ungrazed
+10,3,34,Myrica gale,235496,818006,Unforested,Ungrazed
+10,3,34,Potentilla erecta,235496,818006,Unforested,Ungrazed
+10,3,34,Narthecium ossifragum,235496,818006,Unforested,Ungrazed
+10,3,34,Carex echinata,235496,818006,Unforested,Ungrazed
+10,3,34,Litter,235496,818006,Unforested,Ungrazed
+10,3,34,Calluna vulgaris,235496,818006,Unforested,Ungrazed
+10,3,34,Erica tetralix,235496,818006,Unforested,Ungrazed
+10,3,34,Molinia caerulea,235496,818006,Unforested,Ungrazed
+10,3,34,Narthecium ossifragum,235496,818006,Unforested,Ungrazed
+10,3,34,Potentilla erecta,235496,818006,Unforested,Ungrazed
+10,3,34,Scirpus cespitosus,235496,818006,Unforested,Ungrazed
+10,3,34,Myrica gale,235496,818006,Unforested,Ungrazed
+10,3,34,Sphagnum sp.,235496,818006,Unforested,Ungrazed
+10,3,34,Lichen,235496,818006,Unforested,Ungrazed
+10,3,34,Litter,235496,818006,Unforested,Ungrazed
+10,3,34,Hylocomium splendens,235496,818006,Unforested,Ungrazed
+10,3,34,Pleurozia purpurea,235496,818006,Unforested,Ungrazed
+10,3,34,Rhytidiadelphus sp.,235496,818006,Unforested,Ungrazed
+10,3,34,Carex echinata,235496,818006,Unforested,Ungrazed
+11,1,35,Calluna vulgaris,233892,816697,Reforestation,Ungrazed
+11,1,35,Erica cinerea,233892,816697,Reforestation,Ungrazed
+11,1,35,Scirpus cespitosus,233892,816697,Reforestation,Ungrazed
+11,1,35,Molinia caerulea,233892,816697,Reforestation,Ungrazed
+11,1,35,Lichen,233892,816697,Reforestation,Ungrazed
+11,1,35,Litter,233892,816697,Reforestation,Ungrazed
+11,1,35,Potentilla erecta,233892,816697,Reforestation,Ungrazed
+11,1,35,Populus tremula,233892,816697,Reforestation,Ungrazed
+11,1,35,Calluna vulgaris,233892,816697,Reforestation,Ungrazed
+11,1,35,Potentilla erecta,233892,816697,Reforestation,Ungrazed
+11,1,35,Erica cinerea,233892,816697,Reforestation,Ungrazed
+11,1,35,Molinia caerulea,233892,816697,Reforestation,Ungrazed
+11,1,35,Carex hostiana,233892,816697,Reforestation,Ungrazed
+11,1,35,Lichen,233892,816697,Reforestation,Ungrazed
+11,1,35,Litter,233892,816697,Reforestation,Ungrazed
+11,1,35,Linum catharticum,233892,816697,Reforestation,Ungrazed
+11,1,35,Erica tetralix,233892,816697,Reforestation,Ungrazed
+11,1,35,Calluna vulgaris,233892,816697,Reforestation,Ungrazed
+11,1,35,Scirpus cespitosus,233892,816697,Reforestation,Ungrazed
+11,1,35,Molinia caerulea,233892,816697,Reforestation,Ungrazed
+11,1,35,Litter,233892,816697,Reforestation,Ungrazed
+11,1,35,Potentilla erecta,233892,816697,Reforestation,Ungrazed
+11,1,35,Lichen,233892,816697,Reforestation,Ungrazed
+11,2,36,Pteridium aquilinum,233746,816435,Unforested,Grazed
+11,2,36,Calluna vulgaris,233746,816435,Unforested,Grazed
+11,2,36,Vaccinium vitis-idaea,233746,816435,Unforested,Grazed
+11,2,36,Blechnum spicant,233746,816435,Unforested,Grazed
+11,2,36,Potentilla erecta,233746,816435,Unforested,Grazed
+11,2,36,Trientalis europaea,233746,816435,Unforested,Grazed
+11,2,36,Hylocomium splendens,233746,816435,Unforested,Grazed
+11,2,36,Pleurozium schreberi,233746,816435,Unforested,Grazed
+11,2,36,Molinia caerulea,233746,816435,Unforested,Grazed
+11,2,36,Litter,233746,816435,Unforested,Grazed
+11,2,36,Pteridium aquilinum,233746,816435,Unforested,Grazed
+11,2,36,Calluna vulgaris,233746,816435,Unforested,Grazed
+11,2,36,Vaccinium vitis-idaea,233746,816435,Unforested,Grazed
+11,2,36,Pleurozium schreberi,233746,816435,Unforested,Grazed
+11,2,36,Vaccinium myrtillus,233746,816435,Unforested,Grazed
+11,2,36,Hylocomium splendens,233746,816435,Unforested,Grazed
+11,2,36,Molinia caerulea,233746,816435,Unforested,Grazed
+11,2,36,Trientalis europaea,233746,816435,Unforested,Grazed
+11,2,36,Litter,233746,816435,Unforested,Grazed
+11,2,36,Calluna vulgaris,233746,816435,Unforested,Grazed
+11,2,36,Pteridium aquilinum,233746,816435,Unforested,Grazed
+11,2,36,Potentilla erecta,233746,816435,Unforested,Grazed
+11,2,36,Vaccinium vitis-idaea,233746,816435,Unforested,Grazed
+11,2,36,Hylocomium splendens,233746,816435,Unforested,Grazed
+11,2,36,Poa trivialis,233746,816435,Unforested,Grazed
+11,2,36,Rhytidiadelphus sp.,233746,816435,Unforested,Grazed
+11,2,36,Carex hostiana,233746,816435,Unforested,Grazed
+11,2,36,Trientalis europaea,233746,816435,Unforested,Grazed
+11,2,36,Molinia caerulea,233746,816435,Unforested,Grazed
+11,2,36,Blechnum spicant,233746,816435,Unforested,Grazed
+11,3,37,Sphagnum sp.,233848,816707,Unforested,Ungrazed
+11,3,37,Myrica gale,233848,816707,Unforested,Ungrazed
+11,3,37,Molinia caerulea,233848,816707,Unforested,Ungrazed
+11,3,37,Erica tetralix,233848,816707,Unforested,Ungrazed
+11,3,37,Narthecium ossifragum,233848,816707,Unforested,Ungrazed
+11,3,37,Scirpus cespitosus,233848,816707,Unforested,Ungrazed
+11,3,37,Drosera intermedia,233848,816707,Unforested,Ungrazed
+11,3,37,Potentilla erecta,233848,816707,Unforested,Ungrazed
+11,3,37,Pleurozia purpurea,233848,816707,Unforested,Ungrazed
+11,3,37,Calluna vulgaris,233848,816707,Unforested,Ungrazed
+11,3,37,Pleurozium schreberi,233848,816707,Unforested,Ungrazed
+11,3,37,Litter,233848,816707,Unforested,Ungrazed
+11,3,37,Erica tetralix,233848,816707,Unforested,Ungrazed
+11,3,37,Myrica gale,233848,816707,Unforested,Ungrazed
+11,3,37,Molinia caerulea,233848,816707,Unforested,Ungrazed
+11,3,37,Scirpus cespitosus,233848,816707,Unforested,Ungrazed
+11,3,37,Sphagnum sp.,233848,816707,Unforested,Ungrazed
+11,3,37,Potentilla erecta,233848,816707,Unforested,Ungrazed
+11,3,37,Narthecium ossifragum,233848,816707,Unforested,Ungrazed
+11,3,37,Lichen,233848,816707,Unforested,Ungrazed
+11,3,37,Litter,233848,816707,Unforested,Ungrazed
+11,3,37,Calluna vulgaris,233848,816707,Unforested,Ungrazed
+11,3,37,Erica tetralix,233848,816707,Unforested,Ungrazed
+11,3,37,Erica cinerea,233848,816707,Unforested,Ungrazed
+11,3,37,Calluna vulgaris,233848,816707,Unforested,Ungrazed
+11,3,37,Molinia caerulea,233848,816707,Unforested,Ungrazed
+11,3,37,Scirpus cespitosus,233848,816707,Unforested,Ungrazed
+11,3,37,Potentilla erecta,233848,816707,Unforested,Ungrazed
+11,3,37,Lichen,233848,816707,Unforested,Ungrazed
+11,3,37,Litter,233848,816707,Unforested,Ungrazed
+11,3,37,Carex hostiana,233848,816707,Unforested,Ungrazed
+12,1,38,Erica cinerea,228676,816354,Reforestation,Ungrazed
+12,1,38,Calluna vulgaris,228676,816354,Reforestation,Ungrazed
+12,1,38,Molinia caerulea,228676,816354,Reforestation,Ungrazed
+12,1,38,Racomitriumsp.,228676,816354,Reforestation,Ungrazed
+12,1,38,Polytrichum sp.,228676,816354,Reforestation,Ungrazed
+12,1,38,Potentilla erecta,228676,816354,Reforestation,Ungrazed
+12,1,38,Litter,228676,816354,Reforestation,Ungrazed
+12,1,38,Hylocomium splendens,228676,816354,Reforestation,Ungrazed
+12,1,38,Erica tetralix,228676,816354,Reforestation,Ungrazed
+12,1,38,Calluna vulgaris,228676,816354,Reforestation,Ungrazed
+12,1,38,Erica cinerea,228676,816354,Reforestation,Ungrazed
+12,1,38,Potentilla erecta,228676,816354,Reforestation,Ungrazed
+12,1,38,Molinia caerulea,228676,816354,Reforestation,Ungrazed
+12,1,38,Erica tetralix,228676,816354,Reforestation,Ungrazed
+12,1,38,Litter,228676,816354,Reforestation,Ungrazed
+12,1,38,Lichen,228676,816354,Reforestation,Ungrazed
+12,1,38,Pleurozium schreberi,228676,816354,Reforestation,Ungrazed
+12,1,38,Scirpus cespitosus,228676,816354,Reforestation,Ungrazed
+12,1,38,Hylocomium splendens,228676,816354,Reforestation,Ungrazed
+12,1,38,Calluna vulgaris,228676,816354,Reforestation,Ungrazed
+12,1,38,Lichen,228676,816354,Reforestation,Ungrazed
+12,1,38,Hylocomium splendens,228676,816354,Reforestation,Ungrazed
+12,1,38,Pleurozium schreberi,228676,816354,Reforestation,Ungrazed
+12,1,38,Litter,228676,816354,Reforestation,Ungrazed
+12,1,38,Vaccinium myrtillus,228676,816354,Reforestation,Ungrazed
+12,1,38,Scirpus cespitosus,228676,816354,Reforestation,Ungrazed
+12,1,38,Erica tetralix,228676,816354,Reforestation,Ungrazed
+12,2,39,Calluna vulgaris,228711,816323,Unforested,Grazed
+12,2,39,Sphagnum sp.,228711,816323,Unforested,Grazed
+12,2,39,Scirpus cespitosus,228711,816323,Unforested,Grazed
+12,2,39,Juncus squarrosus,228711,816323,Unforested,Grazed
+12,2,39,Narthecium ossifragum,228711,816323,Unforested,Grazed
+12,2,39,Erica tetralix,228711,816323,Unforested,Grazed
+12,2,39,Lichen,228711,816323,Unforested,Grazed
+12,2,39,Litter,228711,816323,Unforested,Grazed
+12,2,39,Calluna vulgaris,228711,816323,Unforested,Grazed
+12,2,39,Scirpus cespitosus,228711,816323,Unforested,Grazed
+12,2,39,Erica tetralix,228711,816323,Unforested,Grazed
+12,2,39,Molinia caerulea,228711,816323,Unforested,Grazed
+12,2,39,Narthecium ossifragum,228711,816323,Unforested,Grazed
+12,2,39,Potentilla erecta,228711,816323,Unforested,Grazed
+12,2,39,Juncus squarrosus,228711,816323,Unforested,Grazed
+12,2,39,Sphagnum sp.,228711,816323,Unforested,Grazed
+12,2,39,Lichen,228711,816323,Unforested,Grazed
+12,2,39,Litter,228711,816323,Unforested,Grazed
+12,2,39,Pleurozium schreberi,228711,816323,Unforested,Grazed
+12,2,39,Scirpus cespitosus,228711,816323,Unforested,Grazed
+12,2,39,Eriophorum sp.,228711,816323,Unforested,Grazed
+12,2,39,Juncus squarrosus,228711,816323,Unforested,Grazed
+12,2,39,Narthecium ossifragum,228711,816323,Unforested,Grazed
+12,2,39,Calluna vulgaris,228711,816323,Unforested,Grazed
+12,2,39,Erica tetralix,228711,816323,Unforested,Grazed
+12,2,39,Litter,228711,816323,Unforested,Grazed
+12,2,39,Lichen,228711,816323,Unforested,Grazed
+12,2,39,Racomitrium sp.,228711,816323,Unforested,Grazed
+12,2,39,Sphagnum sp.,228711,816323,Unforested,Grazed
+12,3,40,Narthecium ossifragum,228610,816350,Unforested,Ungrazed
+12,3,40,Molinia caerulea,228610,816350,Unforested,Ungrazed
+12,3,40,Scirpus cespitosus,228610,816350,Unforested,Ungrazed
+12,3,40,Erica tetralix,228610,816350,Unforested,Ungrazed
+12,3,40,Litter,228610,816350,Unforested,Ungrazed
+12,3,40,Lichen,228610,816350,Unforested,Ungrazed
+12,3,40,Potentilla erecta,228610,816350,Unforested,Ungrazed
+12,3,40,Sphagnumsp.,228610,816350,Unforested,Ungrazed
+12,3,40,Polygala serpyllifolia,228610,816350,Unforested,Ungrazed
+12,3,40,Pleurozium schreberi,228610,816350,Unforested,Ungrazed
+12,3,40,Scirpus cespitosus,228610,816350,Unforested,Ungrazed
+12,3,40,Molinia caerulea,228610,816350,Unforested,Ungrazed
+12,3,40,Erica cinerea,228610,816350,Unforested,Ungrazed
+12,3,40,Erica tetralix,228610,816350,Unforested,Ungrazed
+12,3,40,Calluna vulgaris,228610,816350,Unforested,Ungrazed
+12,3,40,Narthecium ossifragum,228610,816350,Unforested,Ungrazed
+12,3,40,Potentilla erecta,228610,816350,Unforested,Ungrazed
+12,3,40,Lichen,228610,816350,Unforested,Ungrazed
+12,3,40,Litter ,228610,816350,Unforested,Ungrazed
+12,3,40,Sphagnum sp.,228610,816350,Unforested,Ungrazed
+12,3,40,Narthecium ossifragum,228610,816350,Unforested,Ungrazed
+12,3,40,Scirpus cespitosus,228610,816350,Unforested,Ungrazed
+12,3,40,Molinia caerulea,228610,816350,Unforested,Ungrazed
+12,3,40,Erica tetralix,228610,816350,Unforested,Ungrazed
+12,3,40,Lichen,228610,816350,Unforested,Ungrazed
+12,3,40,Litter,228610,816350,Unforested,Ungrazed
+12,3,40,Sphagnum sp.,228610,816350,Unforested,Ungrazed
+12,3,40,Pleurozia purpurea,228610,816350,Unforested,Ungrazed
+12,3,40,Racomitrium sp.,228610,816350,Unforested,Ungrazed
+12,3,40,Potentilla erecta,228610,816350,Unforested,Ungrazed
+12,3,40,Erica cinerea,228610,816350,Unforested,Ungrazed
+12,3,40,Calluna vulgaris,228610,816350,Unforested,Ungrazed
+13,4,41,Molinia caerulea,223910,826257,Mature,Grazed
+13,4,41,Vaccinium vitis-idaea,223910,826257,Mature,Grazed
+13,4,41,Vaccinium myrtillus,223910,826257,Mature,Grazed
+13,4,41,Pteridium aquilinum,223910,826257,Mature,Grazed
+13,4,41,Hylocomium splendens,223910,826257,Mature,Grazed
+13,4,41,Sphagnum sp.,223910,826257,Mature,Grazed
+13,4,41,Erica cinerea,223910,826257,Mature,Grazed
+13,4,41,Calluna vulgaris,223910,826257,Mature,Grazed
+13,4,41,Rhytidiadelphus sp.,223910,826257,Mature,Grazed
+13,4,41,Agrostis canina,223910,826257,Mature,Grazed
+13,4,41,Melampyrum pratense,223910,826257,Mature,Grazed
+13,4,41,Litter,223910,826257,Mature,Grazed
+13,4,41,Melampyrum pratense,223910,826257,Mature,Grazed
+13,4,41,Calluna vulgaris,223910,826257,Mature,Grazed
+13,4,41,Vaccinium myrtillus,223910,826257,Mature,Grazed
+13,4,41,Hylocomium splendens,223910,826257,Mature,Grazed
+13,4,41,Erica cinerea,223910,826257,Mature,Grazed
+13,4,41,Rhytidiadelphus sp.,223910,826257,Mature,Grazed
+13,4,41,Polytrichum sp.,223910,826257,Mature,Grazed
+13,4,41,Vaccinium vitis-idaea,223910,826257,Mature,Grazed
+13,4,41,Litter,223910,826257,Mature,Grazed
+13,4,41,Calluna vulgaris,223910,826257,Mature,Grazed
+13,4,41,Vaccinium myrtillus,223910,826257,Mature,Grazed
+13,4,41,Molinia caerulea,223910,826257,Mature,Grazed
+13,4,41,Pinus sylvestris,223910,826257,Mature,Grazed
+13,4,41,Polytrichum sp.,223910,826257,Mature,Grazed
+13,4,41,Hylocomium splendens,223910,826257,Mature,Grazed
+13,4,41,Rhytidiadelphus sp.,223910,826257,Mature,Grazed
+13,4,41,Sphagnum sp.,223910,826257,Mature,Grazed
+13,4,41,Pleurozium schreberi,223910,826257,Mature,Grazed
+13,4,41,Vaccinium vitis-idaea,223910,826257,Mature,Grazed
+13,4,41,Litter,223910,826257,Mature,Grazed
+13,5,42,Sorbus aucuparia,223873,826234,Mature,Ungrazed
+13,5,42,Vaccinium myrtillus,223873,826234,Mature,Ungrazed
+13,5,42,Sphagnum sp.,223873,826234,Mature,Ungrazed
+13,5,42,Hylocomium splendens,223873,826234,Mature,Ungrazed
+13,5,42,Calluna vulgaris,223873,826234,Mature,Ungrazed
+13,5,42,Polytrichum sp.,223873,826234,Mature,Ungrazed
+13,5,42,Erica cinerea,223873,826234,Mature,Ungrazed
+13,5,42,Erica tetralix,223873,826234,Mature,Ungrazed
+13,5,42,Pleurozium schreberi,223873,826234,Mature,Ungrazed
+13,5,42,Melampyrum pratense,223873,826234,Mature,Ungrazed
+13,5,42,Litter,223873,826234,Mature,Ungrazed
+13,5,42,Vaccinium vitis-idaea,223873,826234,Mature,Ungrazed
+13,5,42,Hylocomium splendens,223873,826234,Mature,Ungrazed
+13,5,42,Vaccinium myrtillus,223873,826234,Mature,Ungrazed
+13,5,42,Calluna vulgaris,223873,826234,Mature,Ungrazed
+13,5,42,Lichen,223873,826234,Mature,Ungrazed
+13,5,42,Litter,223873,826234,Mature,Ungrazed
+13,5,42,Polytrichum sp.,223873,826234,Mature,Ungrazed
+13,5,42,Vaccinium myrtillus,223873,826234,Mature,Ungrazed
+13,5,42,Calluna vulgaris,223873,826234,Mature,Ungrazed
+13,5,42,Hylocomium splendens,223873,826234,Mature,Ungrazed
+13,5,42,Erica cinerea,223873,826234,Mature,Ungrazed
+13,5,42,Vaccinium vitis-idaea,223873,826234,Mature,Ungrazed
+13,5,42,Pleurozium schreberi,223873,826234,Mature,Ungrazed
+13,5,42,Polytrichum sp.,223873,826234,Mature,Ungrazed
+13,5,42,Litter,223873,826234,Mature,Ungrazed
+13,5,42,Agrostis canina,223873,826234,Mature,Ungrazed
+13,5,42,Luzula campestris,223873,826234,Mature,Ungrazed
+14,4,43,Ptillium crista-castrensis,217390,822196,Mature,Grazed
+14,4,43,Vaccinium myrtillus,217390,822196,Mature,Grazed
+14,4,43,Pleurozium schreberi,217390,822196,Mature,Grazed
+14,4,43,Agrostis canina,217390,822196,Mature,Grazed
+14,4,43,Hylocomium splendens,217390,822196,Mature,Grazed
+14,4,43,Sphagnum sp.,217390,822196,Mature,Grazed
+14,4,43,Litter,217390,822196,Mature,Grazed
+14,4,43,Melampyrum pratense,217390,822196,Mature,Grazed
+14,4,43,Calluna vulgaris,217390,822196,Mature,Grazed
+14,4,43,Rhytidiadelphus sp.,217390,822196,Mature,Grazed
+14,4,43,Sphagnum sp.,217390,822196,Mature,Grazed
+14,4,43,Hylocomium splendens,217390,822196,Mature,Grazed
+14,4,43,Vaccinium myrtillus,217390,822196,Mature,Grazed
+14,4,43,Molinia caerulea,217390,822196,Mature,Grazed
+14,4,43,Litter,217390,822196,Mature,Grazed
+14,4,43,Melampyrum pratense,217390,822196,Mature,Grazed
+14,4,43,Blechnum spicant,217390,822196,Mature,Grazed
+14,4,43,Sphagnum sp.,217390,822196,Mature,Grazed
+14,4,43,Calluna vulgaris,217390,822196,Mature,Grazed
+14,4,43,Vaccinium myrtillus,217390,822196,Mature,Grazed
+14,4,43,Sorbus aucuparia,217390,822196,Mature,Grazed
+14,4,43,Hylocomium splendens,217390,822196,Mature,Grazed
+14,4,43,Melampyrum pratense,217390,822196,Mature,Grazed
+14,4,43,Agrostis canina,217390,822196,Mature,Grazed
+14,4,43,Erica cinerea,217390,822196,Mature,Grazed
+14,4,43,Polytrichum sp.,217390,822196,Mature,Grazed
+14,4,43,Pleurozium schreberi,217390,822196,Mature,Grazed
+14,4,43,Blechnum spicant,217390,822196,Mature,Grazed
+14,5,44,Vaccinium myrtillus,217398,822197,Mature,Ungrazed
+14,5,44,Calluna vulgaris,217398,822197,Mature,Ungrazed
+14,5,44,Hylocomium splendens,217398,822197,Mature,Ungrazed
+14,5,44,Rhytidiadelphus sp.,217398,822197,Mature,Ungrazed
+14,5,44,Sorbus aucuparia,217398,822197,Mature,Ungrazed
+14,5,44,Erica tetralix,217398,822197,Mature,Ungrazed
+14,5,44,Litter,217398,822197,Mature,Ungrazed
+14,5,44,Vaccinium vitis-idaea,217398,822197,Mature,Ungrazed
+14,5,44,Calluna vulgaris,217398,822197,Mature,Ungrazed
+14,5,44,Vaccinium myrtillus,217398,822197,Mature,Ungrazed
+14,5,44,Sphagum sp.,217398,822197,Mature,Ungrazed
+14,5,44,Hylocomium splendens,217398,822197,Mature,Ungrazed
+14,5,44,Litter,217398,822197,Mature,Ungrazed
+14,5,44,Polytrichum sp.,217398,822197,Mature,Ungrazed
+14,5,44,Rhytidiadelphus sp.,217398,822197,Mature,Ungrazed
+14,5,44,Calluna vulgaris,217398,822197,Mature,Ungrazed
+14,5,44,Sphagnum sp.,217398,822197,Mature,Ungrazed
+14,5,44,Vaccinium myrtillus,217398,822197,Mature,Ungrazed
+14,5,44,Rhytidiadelphus sp.,217398,822197,Mature,Ungrazed
+14,5,44,Hylocomium splendens,217398,822197,Mature,Ungrazed
+14,5,44,Vaccinium vitis-idaea,217398,822197,Mature,Ungrazed
+14,5,44,Agrostis canina,217398,822197,Mature,Ungrazed
+14,5,44,Litter,217398,822197,Mature,Ungrazed
+14,5,44,Pteridium aquilinum,217398,822197,Mature,Ungrazed
+14,5,44,Molinia caerulea,217398,822197,Mature,Ungrazed
+14,5,44,Blechnum spicant,217398,822197,Mature,Ungrazed
+15,1,45,Erica tetralix,220711,825142,Reforestation,Ungrazed
+15,1,45,Calluna vulgaris,220711,825142,Reforestation,Ungrazed
+15,1,45,Erica cinerea,220711,825142,Reforestation,Ungrazed
+15,1,45,Scirpus cespitosus,220711,825142,Reforestation,Ungrazed
+15,1,45,Molinia caerulea,220711,825142,Reforestation,Ungrazed
+15,1,45,Lichen,220711,825142,Reforestation,Ungrazed
+15,1,45,Litter,220711,825142,Reforestation,Ungrazed
+15,1,45,Sphagnum sp.,220711,825142,Reforestation,Ungrazed
+15,1,45,Moss sp.,220711,825142,Reforestation,Ungrazed
+15,1,45,Rhytidiadelphus sp.,220711,825142,Reforestation,Ungrazed
+15,1,45,Calluna vulgaris,220711,825142,Reforestation,Ungrazed
+15,1,45,Molinia caerulea,220711,825142,Reforestation,Ungrazed
+15,1,45,Lichen,220711,825142,Reforestation,Ungrazed
+15,1,45,Litter,220711,825142,Reforestation,Ungrazed
+15,1,45,Erica tetralix,220711,825142,Reforestation,Ungrazed
+15,1,45,Sphagnum sp.,220711,825142,Reforestation,Ungrazed
+15,1,45,Hylocomium splendens,220711,825142,Reforestation,Ungrazed
+15,1,45,Racomitrium sp.,220711,825142,Reforestation,Ungrazed
+15,1,45,Erica cinerea,220711,825142,Reforestation,Ungrazed
+15,1,45,Erica tetralix,220711,825142,Reforestation,Ungrazed
+15,1,45,Sphagnum sp.,220711,825142,Reforestation,Ungrazed
+15,1,45,Lichen,220711,825142,Reforestation,Ungrazed
+15,1,45,Myrica gale,220711,825142,Reforestation,Ungrazed
+15,1,45,Molinia caerulea,220711,825142,Reforestation,Ungrazed
+15,1,45,Litter,220711,825142,Reforestation,Ungrazed
+15,1,45,Hylocomium splendens,220711,825142,Reforestation,Ungrazed
+15,2,46,Erica tetralix,220773,825120,Unforested,Grazed
+15,2,46,Erica cinerea,220773,825120,Unforested,Grazed
+15,2,46,Scirpus cespitosus,220773,825120,Unforested,Grazed
+15,2,46,Molinia caerulea,220773,825120,Unforested,Grazed
+15,2,46,Narthecium ossifragum,220773,825120,Unforested,Grazed
+15,2,46,Litter,220773,825120,Unforested,Grazed
+15,2,46,Pleurozia purpurea,220773,825120,Unforested,Grazed
+15,2,46,Lichen,220773,825120,Unforested,Grazed
+15,2,46,Sphagnum sp.,220773,825120,Unforested,Grazed
+15,2,46,Calluna vulgaris,220773,825120,Unforested,Grazed
+15,2,46,Calluna vulgaris,220773,825120,Unforested,Grazed
+15,2,46,Erica cinerea,220773,825120,Unforested,Grazed
+15,2,46,Erica tetralix,220773,825120,Unforested,Grazed
+15,2,46,Racomitrium sp.,220773,825120,Unforested,Grazed
+15,2,46,Narthecium ossifragum,220773,825120,Unforested,Grazed
+15,2,46,Scirpus cespitosus,220773,825120,Unforested,Grazed
+15,2,46,Molinia caerulea,220773,825120,Unforested,Grazed
+15,2,46,Litter,220773,825120,Unforested,Grazed
+15,2,46,Lichen,220773,825120,Unforested,Grazed
+15,2,46,Sphagnum sp.,220773,825120,Unforested,Grazed
+15,2,46,Pleurozia purpurea,220773,825120,Unforested,Grazed
+15,2,46,Erica tetralix,220773,825120,Unforested,Grazed
+15,2,46,Calluna vulgaris,220773,825120,Unforested,Grazed
+15,2,46,Molinia caerulea,220773,825120,Unforested,Grazed
+15,2,46,Scirpus cespitosus,220773,825120,Unforested,Grazed
+15,2,46,Sphagnum sp.,220773,825120,Unforested,Grazed
+15,2,46,Litter,220773,825120,Unforested,Grazed
+15,2,46,Lichen,220773,825120,Unforested,Grazed
+15,2,46,Moss sp.,220773,825120,Unforested,Grazed
+15,3,47,Erica tetralix,220715,825199,Unforested,Ungrazed
+15,3,47,Calluna vulgaris,220715,825199,Unforested,Ungrazed
+15,3,47,Scirpus cespitosus,220715,825199,Unforested,Ungrazed
+15,3,47,Molinia caerulea,220715,825199,Unforested,Ungrazed
+15,3,47,Lichen,220715,825199,Unforested,Ungrazed
+15,3,47,Litter,220715,825199,Unforested,Ungrazed
+15,3,47,Racomitrium sp.,220715,825199,Unforested,Ungrazed
+15,3,47,Pleurozia purpurea,220715,825199,Unforested,Ungrazed
+15,3,47,Narthecium ossifragum,220715,825199,Unforested,Ungrazed
+15,3,47,Erica tetralix,220715,825199,Unforested,Ungrazed
+15,3,47,Calluna vulgaris,220715,825199,Unforested,Ungrazed
+15,3,47,Scirpus cespitosus,220715,825199,Unforested,Ungrazed
+15,3,47,Molinia caerulea,220715,825199,Unforested,Ungrazed
+15,3,47,Pleurozia purpurea,220715,825199,Unforested,Ungrazed
+15,3,47,Sphagnum sp.,220715,825199,Unforested,Ungrazed
+15,3,47,Litter,220715,825199,Unforested,Ungrazed
+15,3,47,Lichen,220715,825199,Unforested,Ungrazed
+15,3,47,Racomitrium sp.,220715,825199,Unforested,Ungrazed
+15,3,47,Myrica gale,220715,825199,Unforested,Ungrazed
+15,3,47,Myrica gale,220715,825199,Unforested,Ungrazed
+15,3,47,Erica tetralix,220715,825199,Unforested,Ungrazed
+15,3,47,Calluna vulgaris,220715,825199,Unforested,Ungrazed
+15,3,47,Erica cinerea,220715,825199,Unforested,Ungrazed
+15,3,47,Scirpus cespitosus,220715,825199,Unforested,Ungrazed
+15,3,47,Molinia caerulea,220715,825199,Unforested,Ungrazed
+15,3,47,Narthecium ossifragum,220715,825199,Unforested,Ungrazed
+15,3,47,Racomitrium sp.,220715,825199,Unforested,Ungrazed
+15,3,47,Lichen,220715,825199,Unforested,Ungrazed
+15,3,47,Litter,220715,825199,Unforested,Ungrazed
+15,3,47,Pleurozia purpurea,220715,825199,Unforested,Ungrazed
+15,3,47,Sphagnum sp.,220715,825199,Unforested,Ungrazed
+15,4,48,Lichen,220682,824835,Mature,Grazed
+15,4,48,Erica cinerea,220682,824835,Mature,Grazed
+15,4,48,Vaccinium vitis-idaea,220682,824835,Mature,Grazed
+15,4,48,Pinus sylvestris,220682,824835,Mature,Grazed
+15,4,48,Calluna vulgaris,220682,824835,Mature,Grazed
+15,4,48,Litter,220682,824835,Mature,Grazed
+15,4,48,Moss sp.,220682,824835,Mature,Grazed
+15,4,48,Racomitrium sp.,220682,824835,Mature,Grazed
+15,4,48,Pleurozium schreberi,220682,824835,Mature,Grazed
+15,4,48,Polytrichum sp.,220682,824835,Mature,Grazed
+15,4,48,Vaccinium myrtillus,220682,824835,Mature,Grazed
+15,4,48,Sorbus aucuparia,220682,824835,Mature,Grazed
+15,4,48,Betula sp.,220682,824835,Mature,Grazed
+15,4,48,Calluna vulgaris,220682,824835,Mature,Grazed
+15,4,48,Erica cinerea,220682,824835,Mature,Grazed
+15,4,48,Molinia caerulea,220682,824835,Mature,Grazed
+15,4,48,Rhytidiadelphus sp.,220682,824835,Mature,Grazed
+15,4,48,Moss sp.,220682,824835,Mature,Grazed
+15,4,48,Vaccinium myrtillus,220682,824835,Mature,Grazed
+15,4,48,Litter ,220682,824835,Mature,Grazed
+15,4,48,Hylocomium splendens,220682,824835,Mature,Grazed
+15,4,48,Calluna vulgaris,220682,824835,Mature,Grazed
+15,4,48,Erica cinerea,220682,824835,Mature,Grazed
+15,4,48,Molinia caerulea,220682,824835,Mature,Grazed
+15,4,48,Betula sp.,220682,824835,Mature,Grazed
+15,4,48,Sorbus aucuparia,220682,824835,Mature,Grazed
+15,4,48,Litter,220682,824835,Mature,Grazed
+15,4,48,Vaccinium myrtillus,220682,824835,Mature,Grazed
+15,4,48,Rhytidiadelphus sp.,220682,824835,Mature,Grazed
+15,4,48,Hylocomium splendens,220682,824835,Mature,Grazed
+15,4,48,Pteridium aquilinum,220682,824835,Mature,Grazed
+15,4,48,Potentilla erecta,220682,824835,Mature,Grazed
+15,4,48,Blechnum spicant,220682,824835,Mature,Grazed
+15,4,48,Pyrola media,220682,824835,Mature,Grazed
+15,5,49,Vaccinium myrtillus,220581,825081,Mature,Ungrazed
+15,5,49,Hylocomium splendens,220581,825081,Mature,Ungrazed
+15,5,49,Polytrichum sp.,220581,825081,Mature,Ungrazed
+15,5,49,Litter,220581,825081,Mature,Ungrazed
+15,5,49,Sorbus aucuparia,220581,825081,Mature,Ungrazed
+15,5,49,Pleurozium schreberi,220581,825081,Mature,Ungrazed
+15,5,49,Vaccinium vitis-idaea,220581,825081,Mature,Ungrazed
+15,5,49,Calluna vulgaris,220581,825081,Mature,Ungrazed
+15,5,49,Vaccinium myrtillus,220581,825081,Mature,Ungrazed
+15,5,49,Hylocomium splendens,220581,825081,Mature,Ungrazed
+15,5,49,Litter,220581,825081,Mature,Ungrazed
+15,5,49,Vaccinium vitis-idaea,220581,825081,Mature,Ungrazed
+15,5,49,Calluna vulgaris,220581,825081,Mature,Ungrazed
+15,5,49,Vaccinium myrtillus,220581,825081,Mature,Ungrazed
+15,5,49,Hylocomium splendens,220581,825081,Mature,Ungrazed
+15,5,49,Litter,220581,825081,Mature,Ungrazed
+15,5,49,Moss sp.,220581,825081,Mature,Ungrazed
+15,5,49,Blechnum spicant,220581,825081,Mature,Ungrazed
+15,5,49,Pleurozium schreberi,220581,825081,Mature,Ungrazed
+15,5,49,Vaccinium vitis-idaea,220581,825081,Mature,Ungrazed
+15,5,49,Erica cinerea,220581,825081,Mature,Ungrazed
+15,5,49,Rhytidiadelphus sp.,220581,825081,Mature,Ungrazed
+15,5,49,Agrostis canina,220581,825081,Mature,Ungrazed
+16,1,50,Molinia caerulea,222513,824993,Reforestation,Ungrazed
+16,1,50,Myrica gale,222513,824993,Reforestation,Ungrazed
+16,1,50,Hylocomium splendens,222513,824993,Reforestation,Ungrazed
+16,1,50,Litter,222513,824993,Reforestation,Ungrazed
+16,1,50,Molinia caerulea,222513,824993,Reforestation,Ungrazed
+16,1,50,Erica cinerea,222513,824993,Reforestation,Ungrazed
+16,1,50,Betula sp.,222513,824993,Reforestation,Ungrazed
+16,1,50,Calluna vulgaris,222513,824993,Reforestation,Ungrazed
+16,1,50,Myrica gale,222513,824993,Reforestation,Ungrazed
+16,1,50,Litter,222513,824993,Reforestation,Ungrazed
+16,1,50,Hylocomium splendens,222513,824993,Reforestation,Ungrazed
+16,1,50,Myrica gale,222513,824993,Reforestation,Ungrazed
+16,1,50,Molinia caerulea,222513,824993,Reforestation,Ungrazed
+16,1,50,Litter,222513,824993,Reforestation,Ungrazed
+16,1,50,Pteridium aquilinum,222513,824993,Reforestation,Ungrazed
+16,1,50,Potentilla erecta,222513,824993,Reforestation,Ungrazed
+16,1,50,Narthecium ossifragum,222513,824993,Reforestation,Ungrazed
+16,2,51,Myrica gale,222581,825048,Unforested,Grazed
+16,2,51,Erica tetralix,222581,825048,Unforested,Grazed
+16,2,51,Narthecium ossifragum,222581,825048,Unforested,Grazed
+16,2,51,Molinia caerulea,222581,825048,Unforested,Grazed
+16,2,51,Litter,222581,825048,Unforested,Grazed
+16,2,51,Sphagnum sp.,222581,825048,Unforested,Grazed
+16,2,51,Erica cinerea,222581,825048,Unforested,Grazed
+16,2,51,Rhytidiadelphus sp.,222581,825048,Unforested,Grazed
+16,2,51,Calluna vulgaris,222581,825048,Unforested,Grazed
+16,2,51,Potentilla erecta,222581,825048,Unforested,Grazed
+16,2,51,Scirpus cespitosus,222581,825048,Unforested,Grazed
+16,2,51,Calluna vulgaris,222581,825048,Unforested,Grazed
+16,2,51,Erica tetralix,222581,825048,Unforested,Grazed
+16,2,51,Myrica gale,222581,825048,Unforested,Grazed
+16,2,51,Narthecium ossifragum,222581,825048,Unforested,Grazed
+16,2,51,Molinia caerulea,222581,825048,Unforested,Grazed
+16,2,51,Potentilla erecta,222581,825048,Unforested,Grazed
+16,2,51,Pleurozium schreberi,222581,825048,Unforested,Grazed
+16,2,51,Hylocomium splendens,222581,825048,Unforested,Grazed
+16,2,51,Scirpus cespitosus,222581,825048,Unforested,Grazed
+16,2,51,Litter,222581,825048,Unforested,Grazed
+16,2,51,Myrica gale,222581,825048,Unforested,Grazed
+16,2,51,Erica tetralix,222581,825048,Unforested,Grazed
+16,2,51,Scirpus cespitosus,222581,825048,Unforested,Grazed
+16,2,51,Molinia caerulea,222581,825048,Unforested,Grazed
+16,2,51,Pedicularis palustris,222581,825048,Unforested,Grazed
+16,2,51,Rhytidiadelphus sp.,222581,825048,Unforested,Grazed
+16,2,51,Sphagnum sp.,222581,825048,Unforested,Grazed
+16,2,51,Narthecium ossifragum,222581,825048,Unforested,Grazed
+16,2,51,Litter,222581,825048,Unforested,Grazed
+16,2,51,Potentilla erecta,222581,825048,Unforested,Grazed
+16,2,51,Carex echinata,222581,825048,Unforested,Grazed
+16,2,51,Dactylorhiza maculata,222581,825048,Unforested,Grazed
+16,3,52,Calluna vulgaris,222970,825352,Unforested,Ungrazed
+16,3,52,Erica tetralix,222970,825352,Unforested,Ungrazed
+16,3,52,Myrica gale,222970,825352,Unforested,Ungrazed
+16,3,52,Sphagnum sp.,222970,825352,Unforested,Ungrazed
+16,3,52,Lichen,222970,825352,Unforested,Ungrazed
+16,3,52,Litter,222970,825352,Unforested,Ungrazed
+16,3,52,Narthecium ossifragum,222970,825352,Unforested,Ungrazed
+16,3,52,Molinia caerulea,222970,825352,Unforested,Ungrazed
+16,3,52,Scirpus cespitosus,222970,825352,Unforested,Ungrazed
+16,3,52,Erica tetralix,222970,825352,Unforested,Ungrazed
+16,3,52,Calluna vulgaris,222970,825352,Unforested,Ungrazed
+16,3,52,Molinia caerulea,222970,825352,Unforested,Ungrazed
+16,3,52,Scirpus cespitosus,222970,825352,Unforested,Ungrazed
+16,3,52,Racomitrium sp.,222970,825352,Unforested,Ungrazed
+16,3,52,Litter,222970,825352,Unforested,Ungrazed
+16,3,52,Lichen,222970,825352,Unforested,Ungrazed
+16,3,52,Myrica gale,222970,825352,Unforested,Ungrazed
+16,3,52,Erica tetralix,222970,825352,Unforested,Ungrazed
+16,3,52,Scirpus cespitosus,222970,825352,Unforested,Ungrazed
+16,3,52,Molinia caerulea,222970,825352,Unforested,Ungrazed
+16,3,52,Litter,222970,825352,Unforested,Ungrazed
+16,3,52,Sphagnum sp.,222970,825352,Unforested,Ungrazed
+16,3,52,Lichen,222970,825352,Unforested,Ungrazed
+16,3,52,Betula sp.,222970,825352,Unforested,Ungrazed
+16,3,52,Calluna vulgaris,222970,825352,Unforested,Ungrazed
+16,3,52,Eriophorum sp.,222970,825352,Unforested,Ungrazed
+16,3,52,Pleurozia purpurea,222970,825352,Unforested,Ungrazed
+16,3,52,Potentilla erecta,222970,825352,Unforested,Ungrazed
+16,3,52,Erica cinerea,222970,825352,Unforested,Ungrazed
