@@ -1,4 +1,4 @@
-Site,PlotType,PlotID,Forest_status,Grazing_status,Grid_X,Grid_Y,Species,,Frequency
+Site,PlotType,PlotID,Forest_status,Grazing_status,Grid_X,Grid_Y,BeetleSpecies,,BeetleFrequency
 1,1,1,Reforestation,Ungrazed,212527,820214,Cychrus caraboides,,1
 1,1,1,Reforestation,Ungrazed,212527,820214,Pterostichus diligens,,1
 1,1,1,Reforestation,Ungrazed,212527,820214,Agonum fuliginosum,,2
